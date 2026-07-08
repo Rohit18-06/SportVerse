@@ -1,0 +1,3191 @@
+[
+  {
+    "predictions": null,
+    "venue": {
+      "city": null,
+      "name": null,
+      "country": null,
+      "capacity": null
+    },
+    "forecast": {
+      "status": null,
+      "temperature": null
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 422,
+          "byes": 1,
+          "logo": "https://highlightly.net/cricket/images/teams/422.png",
+          "name": "Sri Lanka",
+          "fours": 57,
+          "sixes": 9,
+          "wides": 8,
+          "extras": 30,
+          "legByes": 14,
+          "noBalls": 7,
+          "abbreviation": "SL",
+          "fallOfWickets": [
+            {
+              "runs": 15,
+              "order": 0,
+              "overs": 3.2,
+              "dismissalBatsman": {
+                "name": "Nishan Fernando"
+              }
+            },
+            {
+              "runs": 25,
+              "order": 1,
+              "overs": 7.6,
+              "dismissalBatsman": {
+                "name": "Dinesh Chandimal"
+              }
+            },
+            {
+              "runs": 240,
+              "order": 2,
+              "overs": 49.6,
+              "dismissalBatsman": {
+                "name": "Kamindu Mendis"
+              }
+            },
+            {
+              "runs": 333,
+              "order": 3,
+              "overs": 79.4,
+              "dismissalBatsman": {
+                "name": "Lahiru Udara"
+              }
+            },
+            {
+              "runs": 333,
+              "order": 4,
+              "overs": 80.2,
+              "dismissalBatsman": {
+                "name": "Dhananjaya de Silva"
+              }
+            },
+            {
+              "runs": 476,
+              "order": 5,
+              "overs": 120.5,
+              "dismissalBatsman": {
+                "name": "Kusal Mendis"
+              }
+            },
+            {
+              "runs": 512,
+              "order": 6,
+              "overs": 131.3,
+              "dismissalBatsman": {
+                "name": "Sonal Dinusha"
+              }
+            },
+            {
+              "runs": 532,
+              "order": 7,
+              "overs": 136.2,
+              "dismissalBatsman": {
+                "name": "Milan Rathnayaka"
+              }
+            },
+            {
+              "runs": 549,
+              "order": 8,
+              "overs": 139.3,
+              "dismissalBatsman": {
+                "name": "Isitha Wijesundara"
+              }
+            }
+          ],
+          "inningBatsmen": [
+            {
+              "runs": 6,
+              "balls": 11,
+              "fours": 1,
+              "sixes": 0,
+              "player": {
+                "id": "2b0e94a3-a8f3-4bad-80fd-f7f19a197a81",
+                "name": "Nishan Fernando",
+                "roles": [
+                  "wicketkeeper batter"
+                ],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": []
+              },
+              "dismissalStatus": "caught",
+              "battingStrikeRate": 54.54,
+              "dismissalFielders": [
+                {
+                  "name": "Brandon King",
+                  "isKeeper": false,
+                  "isSubstitute": false
+                }
+              ]
+            },
+            {
+              "runs": 188,
+              "balls": 248,
+              "fours": 21,
+              "sixes": 5,
+              "player": {
+                "id": "85cb92d5-ca89-4079-a59a-a2abb5e895bf",
+                "name": "Lahiru Udara",
+                "roles": [
+                  "wicketkeeper batter"
+                ],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": []
+              },
+              "dismissalStatus": "caught",
+              "battingStrikeRate": 75.8,
+              "dismissalFielders": [
+                {
+                  "name": "Shamar Joseph",
+                  "isKeeper": false,
+                  "isSubstitute": false
+                }
+              ]
+            },
+            {
+              "runs": 1,
+              "balls": 15,
+              "fours": 0,
+              "sixes": 0,
+              "player": {
+                "id": "90d9e097-edaa-4c76-8bde-32f392343da9",
+                "name": "Dinesh Chandimal",
+                "roles": [
+                  "wicketkeeper batter"
+                ],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm offbreak"
+                ]
+              },
+              "dismissalStatus": "caught",
+              "battingStrikeRate": 6.66,
+              "dismissalFielders": [
+                {
+                  "name": "Brandon King",
+                  "isKeeper": false,
+                  "isSubstitute": false
+                }
+              ]
+            },
+            {
+              "runs": 84,
+              "balls": 120,
+              "fours": 11,
+              "sixes": 0,
+              "player": {
+                "id": "8a103855-6093-4786-becb-8b2b460f6532",
+                "name": "Kamindu Mendis",
+                "roles": [
+                  "allrounder"
+                ],
+                "battingStyles": [
+                  "left-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm offbreak",
+                  "slow left-arm orthodox"
+                ]
+              },
+              "dismissalStatus": "stumped",
+              "battingStrikeRate": 70,
+              "dismissalFielders": [
+                {
+                  "name": "Shai Hope",
+                  "isKeeper": true,
+                  "isSubstitute": false
+                }
+              ]
+            },
+            {
+              "runs": 33,
+              "balls": 90,
+              "fours": 2,
+              "sixes": 0,
+              "player": {
+                "id": "8a4c0053-b8da-4f0f-9027-c26c24c4ed90",
+                "name": "Dhananjaya de Silva",
+                "roles": [
+                  "allrounder"
+                ],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm offbreak"
+                ]
+              },
+              "dismissalStatus": "caught",
+              "battingStrikeRate": 36.66,
+              "dismissalFielders": [
+                {
+                  "name": "John Campbell",
+                  "isKeeper": false,
+                  "isSubstitute": false
+                }
+              ]
+            },
+            {
+              "runs": 69,
+              "balls": 115,
+              "fours": 8,
+              "sixes": 3,
+              "player": {
+                "id": "4cd7d84d-fc00-4f40-b2cb-bc5cee86045c",
+                "name": "Kusal Mendis",
+                "roles": [
+                  "wicketkeeper batter"
+                ],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "legbreak"
+                ]
+              },
+              "dismissalStatus": "bowled",
+              "battingStrikeRate": 60,
+              "dismissalFielders": []
+            },
+            {
+              "runs": 92,
+              "balls": 166,
+              "fours": 12,
+              "sixes": 0,
+              "player": {
+                "id": "08f577ac-f25f-4d1f-9022-d8c299930bab",
+                "name": "Sonal Dinusha",
+                "roles": [
+                  "bowling allrounder"
+                ],
+                "battingStyles": [
+                  "left-hand bat"
+                ],
+                "bowlingStyles": [
+                  "slow left-arm orthodox"
+                ]
+              },
+              "dismissalStatus": "caught",
+              "battingStrikeRate": 55.42,
+              "dismissalFielders": [
+                {
+                  "name": "Brandon King",
+                  "isKeeper": false,
+                  "isSubstitute": false
+                }
+              ]
+            },
+            {
+              "runs": 15,
+              "balls": 43,
+              "fours": 0,
+              "sixes": 0,
+              "player": {
+                "id": "5c440475-b5f7-40a1-b889-086a36de42dc",
+                "name": "Milan Rathnayaka",
+                "roles": [
+                  "bowler"
+                ],
+                "battingStyles": [
+                  "left-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm medium-fast"
+                ]
+              },
+              "dismissalStatus": "caught",
+              "battingStrikeRate": 34.88,
+              "dismissalFielders": [
+                {
+                  "name": "Justin Greaves",
+                  "isKeeper": false,
+                  "isSubstitute": false
+                }
+              ]
+            },
+            {
+              "runs": 17,
+              "balls": 22,
+              "fours": 1,
+              "sixes": 0,
+              "player": {
+                "id": "58b9f43b-1659-41ef-8794-6e5662e00183",
+                "name": "Prabath Jayasuriya",
+                "roles": [
+                  "bowler"
+                ],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "slow left-arm orthodox"
+                ]
+              },
+              "dismissalStatus": "not out",
+              "battingStrikeRate": 77.27,
+              "dismissalFielders": []
+            },
+            {
+              "runs": 14,
+              "balls": 14,
+              "fours": 1,
+              "sixes": 1,
+              "player": {
+                "id": "af34dffc-46f6-463a-8ba7-217d516e84bc",
+                "name": "Isitha Wijesundara",
+                "roles": [
+                  "bowling allrounder"
+                ],
+                "battingStyles": [
+                  "left-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm medium-fast"
+                ]
+              },
+              "dismissalStatus": "caught",
+              "battingStrikeRate": 100,
+              "dismissalFielders": [
+                {
+                  "name": "John Campbell",
+                  "isKeeper": false,
+                  "isSubstitute": false
+                }
+              ]
+            },
+            {
+              "runs": null,
+              "balls": null,
+              "fours": null,
+              "sixes": null,
+              "player": {
+                "id": "c5ffff28-239a-4a77-bd57-fa914c57834d",
+                "name": "Asitha Fernando",
+                "roles": [
+                  "bowler"
+                ],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm medium-fast"
+                ]
+              },
+              "dismissalStatus": null,
+              "battingStrikeRate": null,
+              "dismissalFielders": []
+            }
+          ],
+          "inningBowlers": [
+            {
+              "overs": 25.3,
+              "player": {
+                "name": "Jayden Seales",
+                "roles": [
+                  "bowler"
+                ],
+                "battingStyles": [
+                  "left-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm fast-medium"
+                ]
+              },
+              "economy": 3.84,
+              "maidens": 5,
+              "wickets": 2,
+              "concededRuns": 98
+            },
+            {
+              "overs": 23,
+              "player": {
+                "name": "Shamar Joseph",
+                "roles": [
+                  "bowler"
+                ],
+                "battingStyles": [
+                  "left-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm fast"
+                ]
+              },
+              "economy": 4.26,
+              "maidens": 4,
+              "wickets": 2,
+              "concededRuns": 98
+            },
+            {
+              "overs": 21,
+              "player": {
+                "name": "Alzarri Joseph",
+                "roles": [
+                  "bowler"
+                ],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm fast"
+                ]
+              },
+              "economy": 4.66,
+              "maidens": 4,
+              "wickets": 1,
+              "concededRuns": 98
+            },
+            {
+              "overs": 19,
+              "player": {
+                "name": "Anderson Phillip",
+                "roles": [
+                  "bowler"
+                ],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm fast-medium"
+                ]
+              },
+              "economy": 3.78,
+              "maidens": 0,
+              "wickets": 1,
+              "concededRuns": 72
+            },
+            {
+              "overs": 18,
+              "player": {
+                "name": "Justin Greaves",
+                "roles": [
+                  "allrounder"
+                ],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm medium"
+                ]
+              },
+              "economy": 2.38,
+              "maidens": 2,
+              "wickets": 1,
+              "concededRuns": 43
+            },
+            {
+              "overs": 29,
+              "player": {
+                "name": "Roston Chase",
+                "roles": [
+                  "allrounder"
+                ],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm offbreak"
+                ]
+              },
+              "economy": 3.41,
+              "maidens": 3,
+              "wickets": 1,
+              "concededRuns": 99
+            },
+            {
+              "overs": 4,
+              "player": {
+                "name": "Kavem Hodge",
+                "roles": [
+                  "allrounder"
+                ],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "slow left-arm orthodox"
+                ]
+              },
+              "economy": 6.5,
+              "maidens": 0,
+              "wickets": 1,
+              "concededRuns": 26
+            }
+          ],
+          "fieldingSummary": {
+            "catches": 7,
+            "runOuts": null,
+            "runsSaved": null,
+            "stumpings": 1,
+            "catchesDropped": 2
+          },
+          "inningPartnerships": [
+            {
+              "runs": 15,
+              "balls": 20,
+              "overs": 3.2,
+              "firstPlayer": {
+                "id": "85cb92d5-ca89-4079-a59a-a2abb5e895bf",
+                "name": "Lahiru Udara",
+                "roles": [
+                  "wicketkeeper batter"
+                ],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": []
+              },
+              "secondPlayer": {
+                "id": "2b0e94a3-a8f3-4bad-80fd-f7f19a197a81",
+                "name": "Nishan Fernando",
+                "roles": [
+                  "wicketkeeper batter"
+                ],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": []
+              },
+              "firstPlayerRuns": 9,
+              "firstPlayerBalls": 9,
+              "secondPlayerRuns": 6,
+              "secondPlayerBalls": 11
+            },
+            {
+              "runs": 10,
+              "balls": 28,
+              "overs": 4.4,
+              "firstPlayer": {
+                "id": "90d9e097-edaa-4c76-8bde-32f392343da9",
+                "name": "Dinesh Chandimal",
+                "roles": [
+                  "wicketkeeper batter"
+                ],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm offbreak"
+                ]
+              },
+              "secondPlayer": {
+                "id": "85cb92d5-ca89-4079-a59a-a2abb5e895bf",
+                "name": "Lahiru Udara",
+                "roles": [
+                  "wicketkeeper batter"
+                ],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": []
+              },
+              "firstPlayerRuns": 1,
+              "firstPlayerBalls": 15,
+              "secondPlayerRuns": 9,
+              "secondPlayerBalls": 13
+            },
+            {
+              "runs": 215,
+              "balls": 255,
+              "overs": 42,
+              "firstPlayer": {
+                "id": "85cb92d5-ca89-4079-a59a-a2abb5e895bf",
+                "name": "Lahiru Udara",
+                "roles": [
+                  "wicketkeeper batter"
+                ],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": []
+              },
+              "secondPlayer": {
+                "id": "8a103855-6093-4786-becb-8b2b460f6532",
+                "name": "Kamindu Mendis",
+                "roles": [
+                  "allrounder"
+                ],
+                "battingStyles": [
+                  "left-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm offbreak",
+                  "slow left-arm orthodox"
+                ]
+              },
+              "firstPlayerRuns": 116,
+              "firstPlayerBalls": 135,
+              "secondPlayerRuns": 84,
+              "secondPlayerBalls": 120
+            },
+            {
+              "runs": 93,
+              "balls": 179,
+              "overs": 29.4,
+              "firstPlayer": {
+                "id": "8a4c0053-b8da-4f0f-9027-c26c24c4ed90",
+                "name": "Dhananjaya de Silva",
+                "roles": [
+                  "allrounder"
+                ],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm offbreak"
+                ]
+              },
+              "secondPlayer": {
+                "id": "85cb92d5-ca89-4079-a59a-a2abb5e895bf",
+                "name": "Lahiru Udara",
+                "roles": [
+                  "wicketkeeper batter"
+                ],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": []
+              },
+              "firstPlayerRuns": 33,
+              "firstPlayerBalls": 88,
+              "secondPlayerRuns": 54,
+              "secondPlayerBalls": 91
+            },
+            {
+              "runs": 0,
+              "balls": 4,
+              "overs": 0.4,
+              "firstPlayer": {
+                "id": "8a4c0053-b8da-4f0f-9027-c26c24c4ed90",
+                "name": "Dhananjaya de Silva",
+                "roles": [
+                  "allrounder"
+                ],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm offbreak"
+                ]
+              },
+              "secondPlayer": {
+                "id": "4cd7d84d-fc00-4f40-b2cb-bc5cee86045c",
+                "name": "Kusal Mendis",
+                "roles": [
+                  "wicketkeeper batter"
+                ],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "legbreak"
+                ]
+              },
+              "firstPlayerRuns": 0,
+              "firstPlayerBalls": 2,
+              "secondPlayerRuns": 0,
+              "secondPlayerBalls": 2
+            },
+            {
+              "runs": 143,
+              "balls": 246,
+              "overs": 40.3,
+              "firstPlayer": {
+                "id": "4cd7d84d-fc00-4f40-b2cb-bc5cee86045c",
+                "name": "Kusal Mendis",
+                "roles": [
+                  "wicketkeeper batter"
+                ],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "legbreak"
+                ]
+              },
+              "secondPlayer": {
+                "id": "08f577ac-f25f-4d1f-9022-d8c299930bab",
+                "name": "Sonal Dinusha",
+                "roles": [
+                  "bowling allrounder"
+                ],
+                "battingStyles": [
+                  "left-hand bat"
+                ],
+                "bowlingStyles": [
+                  "slow left-arm orthodox"
+                ]
+              },
+              "firstPlayerRuns": 69,
+              "firstPlayerBalls": 113,
+              "secondPlayerRuns": 69,
+              "secondPlayerBalls": 133
+            },
+            {
+              "runs": 36,
+              "balls": 64,
+              "overs": 10.4,
+              "firstPlayer": {
+                "id": "5c440475-b5f7-40a1-b889-086a36de42dc",
+                "name": "Milan Rathnayaka",
+                "roles": [
+                  "bowler"
+                ],
+                "battingStyles": [
+                  "left-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm medium-fast"
+                ]
+              },
+              "secondPlayer": {
+                "id": "08f577ac-f25f-4d1f-9022-d8c299930bab",
+                "name": "Sonal Dinusha",
+                "roles": [
+                  "bowling allrounder"
+                ],
+                "battingStyles": [
+                  "left-hand bat"
+                ],
+                "bowlingStyles": [
+                  "slow left-arm orthodox"
+                ]
+              },
+              "firstPlayerRuns": 10,
+              "firstPlayerBalls": 31,
+              "secondPlayerRuns": 23,
+              "secondPlayerBalls": 33
+            },
+            {
+              "runs": 20,
+              "balls": 29,
+              "overs": 4.5,
+              "firstPlayer": {
+                "id": "58b9f43b-1659-41ef-8794-6e5662e00183",
+                "name": "Prabath Jayasuriya",
+                "roles": [
+                  "bowler"
+                ],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "slow left-arm orthodox"
+                ]
+              },
+              "secondPlayer": {
+                "id": "5c440475-b5f7-40a1-b889-086a36de42dc",
+                "name": "Milan Rathnayaka",
+                "roles": [
+                  "bowler"
+                ],
+                "battingStyles": [
+                  "left-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm medium-fast"
+                ]
+              },
+              "firstPlayerRuns": 14,
+              "firstPlayerBalls": 17,
+              "secondPlayerRuns": 5,
+              "secondPlayerBalls": 12
+            },
+            {
+              "runs": 17,
+              "balls": 19,
+              "overs": 3.1,
+              "firstPlayer": {
+                "id": "58b9f43b-1659-41ef-8794-6e5662e00183",
+                "name": "Prabath Jayasuriya",
+                "roles": [
+                  "bowler"
+                ],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "slow left-arm orthodox"
+                ]
+              },
+              "secondPlayer": {
+                "id": "af34dffc-46f6-463a-8ba7-217d516e84bc",
+                "name": "Isitha Wijesundara",
+                "roles": [
+                  "bowling allrounder"
+                ],
+                "battingStyles": [
+                  "left-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm medium-fast"
+                ]
+              },
+              "firstPlayerRuns": 3,
+              "firstPlayerBalls": 5,
+              "secondPlayerRuns": 14,
+              "secondPlayerBalls": 14
+            }
+          ]
+        },
+        "inningNumber": 1
+      },
+      {
+        "team": {
+          "id": 282,
+          "byes": 19,
+          "logo": "https://highlightly.net/cricket/images/teams/282.png",
+          "name": "West Indies",
+          "fours": 42,
+          "sixes": 5,
+          "wides": 7,
+          "extras": 35,
+          "legByes": 5,
+          "noBalls": 4,
+          "abbreviation": "WI",
+          "fallOfWickets": [
+            {
+              "runs": 33,
+              "order": 0,
+              "overs": 8.6,
+              "dismissalBatsman": {
+                "name": "Brandon King"
+              }
+            },
+            {
+              "runs": 122,
+              "order": 1,
+              "overs": 47.5,
+              "dismissalBatsman": {
+                "name": "John Campbell"
+              }
+            },
+            {
+              "runs": 135,
+              "order": 2,
+              "overs": 52.1,
+              "dismissalBatsman": {
+                "name": "Amir Jangoo"
+              }
+            },
+            {
+              "runs": 144,
+              "order": 3,
+              "overs": 56.6,
+              "dismissalBatsman": {
+                "name": "Kavem Hodge"
+              }
+            },
+            {
+              "runs": 386,
+              "order": 4,
+              "overs": 133.1,
+              "dismissalBatsman": {
+                "name": "Shai Hope"
+              }
+            },
+            {
+              "runs": 438,
+              "order": 5,
+              "overs": 146.6,
+              "dismissalBatsman": {
+                "name": "Roston Chase"
+              }
+            },
+            {
+              "runs": 441,
+              "order": 6,
+              "overs": 148.3,
+              "dismissalBatsman": {
+                "name": "Anderson Phillip"
+              }
+            },
+            {
+              "runs": 465,
+              "order": 7,
+              "overs": 154.6,
+              "dismissalBatsman": {
+                "name": "Alzarri Joseph"
+              }
+            },
+            {
+              "runs": 478,
+              "order": 8,
+              "overs": 159.4,
+              "dismissalBatsman": {
+                "name": "Shamar Joseph"
+              }
+            },
+            {
+              "runs": 499,
+              "order": 9,
+              "overs": 165.5,
+              "dismissalBatsman": {
+                "name": "Justin Greaves"
+              }
+            }
+          ],
+          "inningBatsmen": [
+            {
+              "runs": 72,
+              "balls": 154,
+              "fours": 9,
+              "sixes": 2,
+              "player": {
+                "id": "a0bd795b-a9de-4994-b84b-bb02b9113a62",
+                "name": "John Campbell",
+                "roles": [
+                  "opening batter"
+                ],
+                "battingStyles": [
+                  "left-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm offbreak"
+                ]
+              },
+              "dismissalStatus": "caught",
+              "battingStrikeRate": 46.75,
+              "dismissalFielders": [
+                {
+                  "name": "Dinesh Chandimal",
+                  "isKeeper": false,
+                  "isSubstitute": false
+                }
+              ]
+            },
+            {
+              "runs": 17,
+              "balls": 26,
+              "fours": 3,
+              "sixes": 0,
+              "player": {
+                "id": "af50ac75-8095-4767-b10e-627c6670b167",
+                "name": "Brandon King",
+                "roles": [
+                  "top-order batter"
+                ],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": []
+              },
+              "dismissalStatus": "caught",
+              "battingStrikeRate": 65.38,
+              "dismissalFielders": [
+                {
+                  "name": "Kamindu Mendis",
+                  "isKeeper": false,
+                  "isSubstitute": false
+                }
+              ]
+            },
+            {
+              "runs": 31,
+              "balls": 139,
+              "fours": 2,
+              "sixes": 0,
+              "player": {
+                "id": "1d6da402-71ae-4ba3-8619-fde3394335cf",
+                "name": "Kavem Hodge",
+                "roles": [
+                  "allrounder"
+                ],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "slow left-arm orthodox"
+                ]
+              },
+              "dismissalStatus": "caught",
+              "battingStrikeRate": 22.3,
+              "dismissalFielders": [
+                {
+                  "name": "Kusal Mendis",
+                  "isKeeper": true,
+                  "isSubstitute": false
+                }
+              ]
+            },
+            {
+              "runs": 9,
+              "balls": 15,
+              "fours": 1,
+              "sixes": 0,
+              "player": {
+                "id": "44721a13-d9ca-46b9-922a-a7e65f811f90",
+                "name": "Amir Jangoo",
+                "roles": [
+                  "wicketkeeper batter"
+                ],
+                "battingStyles": [
+                  "left-hand bat"
+                ],
+                "bowlingStyles": []
+              },
+              "dismissalStatus": "caught",
+              "battingStrikeRate": 60,
+              "dismissalFielders": [
+                {
+                  "name": "Nishan Fernando",
+                  "isKeeper": false,
+                  "isSubstitute": false
+                }
+              ]
+            },
+            {
+              "runs": 112,
+              "balls": 243,
+              "fours": 10,
+              "sixes": 0,
+              "player": {
+                "id": "a3a58feb-77a1-4f36-b325-eb2a90021f94",
+                "name": "Shai Hope",
+                "roles": [
+                  "wicketkeeper batter"
+                ],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": []
+              },
+              "dismissalStatus": "stumped",
+              "battingStrikeRate": 46.09,
+              "dismissalFielders": [
+                {
+                  "name": "Kusal Mendis",
+                  "isKeeper": true,
+                  "isSubstitute": false
+                }
+              ]
+            },
+            {
+              "runs": 180,
+              "balls": 325,
+              "fours": 14,
+              "sixes": 2,
+              "player": {
+                "id": "3b716fe2-ac53-4772-a94c-1d7be1d4e7d4",
+                "name": "Justin Greaves",
+                "roles": [
+                  "allrounder"
+                ],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm medium"
+                ]
+              },
+              "dismissalStatus": "caught",
+              "battingStrikeRate": 55.38,
+              "dismissalFielders": [
+                {
+                  "name": "Asitha Fernando",
+                  "isKeeper": false,
+                  "isSubstitute": false
+                }
+              ]
+            },
+            {
+              "runs": 23,
+              "balls": 40,
+              "fours": 3,
+              "sixes": 0,
+              "player": {
+                "id": "34a60952-a34f-4f8b-bedc-bd2f3f649726",
+                "name": "Roston Chase",
+                "roles": [
+                  "allrounder"
+                ],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm offbreak"
+                ]
+              },
+              "dismissalStatus": "caught",
+              "battingStrikeRate": 57.5,
+              "dismissalFielders": [
+                {
+                  "name": "Kusal Mendis",
+                  "isKeeper": true,
+                  "isSubstitute": false
+                }
+              ]
+            },
+            {
+              "runs": 0,
+              "balls": 5,
+              "fours": 0,
+              "sixes": 0,
+              "player": {
+                "id": "4a58fc60-b7ca-4871-abfc-b60418494ba9",
+                "name": "Anderson Phillip",
+                "roles": [
+                  "bowler"
+                ],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm fast-medium"
+                ]
+              },
+              "dismissalStatus": "caught",
+              "battingStrikeRate": 0,
+              "dismissalFielders": [
+                {
+                  "name": "Kusal Mendis",
+                  "isKeeper": true,
+                  "isSubstitute": false
+                }
+              ]
+            },
+            {
+              "runs": 13,
+              "balls": 24,
+              "fours": 0,
+              "sixes": 1,
+              "player": {
+                "id": "0b232aa2-65c1-4289-80e5-ea7c533421df",
+                "name": "Alzarri Joseph",
+                "roles": [
+                  "bowler"
+                ],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm fast"
+                ]
+              },
+              "dismissalStatus": "caught",
+              "battingStrikeRate": 54.16,
+              "dismissalFielders": [
+                {
+                  "name": "Lahiru Udara",
+                  "isKeeper": false,
+                  "isSubstitute": false
+                }
+              ]
+            },
+            {
+              "runs": 5,
+              "balls": 11,
+              "fours": 0,
+              "sixes": 0,
+              "player": {
+                "id": "317cc729-39fb-4a16-86bd-576505e3fffa",
+                "name": "Shamar Joseph",
+                "roles": [
+                  "bowler"
+                ],
+                "battingStyles": [
+                  "left-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm fast"
+                ]
+              },
+              "dismissalStatus": "caught",
+              "battingStrikeRate": 45.45,
+              "dismissalFielders": [
+                {
+                  "name": "Kamindu Mendis",
+                  "isKeeper": false,
+                  "isSubstitute": false
+                }
+              ]
+            },
+            {
+              "runs": 2,
+              "balls": 17,
+              "fours": 0,
+              "sixes": 0,
+              "player": {
+                "id": "747ccff5-1fea-4535-97ca-8530a41d3ecd",
+                "name": "Jayden Seales",
+                "roles": [
+                  "bowler"
+                ],
+                "battingStyles": [
+                  "left-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm fast-medium"
+                ]
+              },
+              "dismissalStatus": "not out",
+              "battingStrikeRate": 11.76,
+              "dismissalFielders": []
+            }
+          ],
+          "inningBowlers": [
+            {
+              "overs": 40,
+              "player": {
+                "name": "Asitha Fernando",
+                "roles": [
+                  "bowler"
+                ],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm medium-fast"
+                ]
+              },
+              "economy": 3.25,
+              "maidens": 7,
+              "wickets": 5,
+              "concededRuns": 130
+            },
+            {
+              "overs": 29,
+              "player": {
+                "name": "Isitha Wijesundara",
+                "roles": [
+                  "bowling allrounder"
+                ],
+                "battingStyles": [
+                  "left-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm medium-fast"
+                ]
+              },
+              "economy": 3.72,
+              "maidens": 2,
+              "wickets": 0,
+              "concededRuns": 108
+            },
+            {
+              "overs": 31,
+              "player": {
+                "name": "Milan Rathnayaka",
+                "roles": [
+                  "bowler"
+                ],
+                "battingStyles": [
+                  "left-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm medium-fast"
+                ]
+              },
+              "economy": 2.38,
+              "maidens": 5,
+              "wickets": 1,
+              "concededRuns": 74
+            },
+            {
+              "overs": 55.5,
+              "player": {
+                "name": "Prabath Jayasuriya",
+                "roles": [
+                  "bowler"
+                ],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "slow left-arm orthodox"
+                ]
+              },
+              "economy": 2.34,
+              "maidens": 8,
+              "wickets": 3,
+              "concededRuns": 131
+            },
+            {
+              "overs": 2,
+              "player": {
+                "name": "Dhananjaya de Silva",
+                "roles": [
+                  "allrounder"
+                ],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm offbreak"
+                ]
+              },
+              "economy": 1.5,
+              "maidens": 1,
+              "wickets": 0,
+              "concededRuns": 3
+            },
+            {
+              "overs": 8,
+              "player": {
+                "name": "Sonal Dinusha",
+                "roles": [
+                  "bowling allrounder"
+                ],
+                "battingStyles": [
+                  "left-hand bat"
+                ],
+                "bowlingStyles": [
+                  "slow left-arm orthodox"
+                ]
+              },
+              "economy": 3.62,
+              "maidens": 0,
+              "wickets": 1,
+              "concededRuns": 29
+            }
+          ],
+          "fieldingSummary": {
+            "catches": 9,
+            "runOuts": null,
+            "runsSaved": null,
+            "stumpings": 1,
+            "catchesDropped": 2
+          },
+          "inningPartnerships": [
+            {
+              "runs": 33,
+              "balls": 54,
+              "overs": 9,
+              "firstPlayer": {
+                "id": "a0bd795b-a9de-4994-b84b-bb02b9113a62",
+                "name": "John Campbell",
+                "roles": [
+                  "opening batter"
+                ],
+                "battingStyles": [
+                  "left-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm offbreak"
+                ]
+              },
+              "secondPlayer": {
+                "id": "af50ac75-8095-4767-b10e-627c6670b167",
+                "name": "Brandon King",
+                "roles": [
+                  "top-order batter"
+                ],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": []
+              },
+              "firstPlayerRuns": 12,
+              "firstPlayerBalls": 28,
+              "secondPlayerRuns": 17,
+              "secondPlayerBalls": 26
+            },
+            {
+              "runs": 89,
+              "balls": 234,
+              "overs": 38.5,
+              "firstPlayer": {
+                "id": "a0bd795b-a9de-4994-b84b-bb02b9113a62",
+                "name": "John Campbell",
+                "roles": [
+                  "opening batter"
+                ],
+                "battingStyles": [
+                  "left-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm offbreak"
+                ]
+              },
+              "secondPlayer": {
+                "id": "1d6da402-71ae-4ba3-8619-fde3394335cf",
+                "name": "Kavem Hodge",
+                "roles": [
+                  "allrounder"
+                ],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "slow left-arm orthodox"
+                ]
+              },
+              "firstPlayerRuns": 60,
+              "firstPlayerBalls": 126,
+              "secondPlayerRuns": 23,
+              "secondPlayerBalls": 108
+            },
+            {
+              "runs": 13,
+              "balls": 26,
+              "overs": 4.2,
+              "firstPlayer": {
+                "id": "1d6da402-71ae-4ba3-8619-fde3394335cf",
+                "name": "Kavem Hodge",
+                "roles": [
+                  "allrounder"
+                ],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "slow left-arm orthodox"
+                ]
+              },
+              "secondPlayer": {
+                "id": "44721a13-d9ca-46b9-922a-a7e65f811f90",
+                "name": "Amir Jangoo",
+                "roles": [
+                  "wicketkeeper batter"
+                ],
+                "battingStyles": [
+                  "left-hand bat"
+                ],
+                "bowlingStyles": []
+              },
+              "firstPlayerRuns": 4,
+              "firstPlayerBalls": 11,
+              "secondPlayerRuns": 9,
+              "secondPlayerBalls": 15
+            },
+            {
+              "runs": 9,
+              "balls": 29,
+              "overs": 4.5,
+              "firstPlayer": {
+                "id": "1d6da402-71ae-4ba3-8619-fde3394335cf",
+                "name": "Kavem Hodge",
+                "roles": [
+                  "allrounder"
+                ],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "slow left-arm orthodox"
+                ]
+              },
+              "secondPlayer": {
+                "id": "a3a58feb-77a1-4f36-b325-eb2a90021f94",
+                "name": "Shai Hope",
+                "roles": [
+                  "wicketkeeper batter"
+                ],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": []
+              },
+              "firstPlayerRuns": 4,
+              "firstPlayerBalls": 20,
+              "secondPlayerRuns": 5,
+              "secondPlayerBalls": 9
+            },
+            {
+              "runs": 242,
+              "balls": 459,
+              "overs": 76.1,
+              "firstPlayer": {
+                "id": "3b716fe2-ac53-4772-a94c-1d7be1d4e7d4",
+                "name": "Justin Greaves",
+                "roles": [
+                  "allrounder"
+                ],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm medium"
+                ]
+              },
+              "secondPlayer": {
+                "id": "a3a58feb-77a1-4f36-b325-eb2a90021f94",
+                "name": "Shai Hope",
+                "roles": [
+                  "wicketkeeper batter"
+                ],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": []
+              },
+              "firstPlayerRuns": 121,
+              "firstPlayerBalls": 225,
+              "secondPlayerRuns": 107,
+              "secondPlayerBalls": 234
+            },
+            {
+              "runs": 52,
+              "balls": 83,
+              "overs": 13.5,
+              "firstPlayer": {
+                "id": "34a60952-a34f-4f8b-bedc-bd2f3f649726",
+                "name": "Roston Chase",
+                "roles": [
+                  "allrounder"
+                ],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm offbreak"
+                ]
+              },
+              "secondPlayer": {
+                "id": "3b716fe2-ac53-4772-a94c-1d7be1d4e7d4",
+                "name": "Justin Greaves",
+                "roles": [
+                  "allrounder"
+                ],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm medium"
+                ]
+              },
+              "firstPlayerRuns": 23,
+              "firstPlayerBalls": 40,
+              "secondPlayerRuns": 23,
+              "secondPlayerBalls": 43
+            },
+            {
+              "runs": 3,
+              "balls": 10,
+              "overs": 1.3,
+              "firstPlayer": {
+                "id": "3b716fe2-ac53-4772-a94c-1d7be1d4e7d4",
+                "name": "Justin Greaves",
+                "roles": [
+                  "allrounder"
+                ],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm medium"
+                ]
+              },
+              "secondPlayer": {
+                "id": "4a58fc60-b7ca-4871-abfc-b60418494ba9",
+                "name": "Anderson Phillip",
+                "roles": [
+                  "bowler"
+                ],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm fast-medium"
+                ]
+              },
+              "firstPlayerRuns": 2,
+              "firstPlayerBalls": 5,
+              "secondPlayerRuns": 0,
+              "secondPlayerBalls": 5
+            },
+            {
+              "runs": 24,
+              "balls": 39,
+              "overs": 6.3,
+              "firstPlayer": {
+                "id": "3b716fe2-ac53-4772-a94c-1d7be1d4e7d4",
+                "name": "Justin Greaves",
+                "roles": [
+                  "allrounder"
+                ],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm medium"
+                ]
+              },
+              "secondPlayer": {
+                "id": "0b232aa2-65c1-4289-80e5-ea7c533421df",
+                "name": "Alzarri Joseph",
+                "roles": [
+                  "bowler"
+                ],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm fast"
+                ]
+              },
+              "firstPlayerRuns": 7,
+              "firstPlayerBalls": 15,
+              "secondPlayerRuns": 13,
+              "secondPlayerBalls": 24
+            },
+            {
+              "runs": 13,
+              "balls": 28,
+              "overs": 4.4,
+              "firstPlayer": {
+                "id": "3b716fe2-ac53-4772-a94c-1d7be1d4e7d4",
+                "name": "Justin Greaves",
+                "roles": [
+                  "allrounder"
+                ],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm medium"
+                ]
+              },
+              "secondPlayer": {
+                "id": "317cc729-39fb-4a16-86bd-576505e3fffa",
+                "name": "Shamar Joseph",
+                "roles": [
+                  "bowler"
+                ],
+                "battingStyles": [
+                  "left-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm fast"
+                ]
+              },
+              "firstPlayerRuns": 8,
+              "firstPlayerBalls": 17,
+              "secondPlayerRuns": 5,
+              "secondPlayerBalls": 11
+            },
+            {
+              "runs": 21,
+              "balls": 37,
+              "overs": 6.1,
+              "firstPlayer": {
+                "id": "3b716fe2-ac53-4772-a94c-1d7be1d4e7d4",
+                "name": "Justin Greaves",
+                "roles": [
+                  "allrounder"
+                ],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm medium"
+                ]
+              },
+              "secondPlayer": {
+                "id": "747ccff5-1fea-4535-97ca-8530a41d3ecd",
+                "name": "Jayden Seales",
+                "roles": [
+                  "bowler"
+                ],
+                "battingStyles": [
+                  "left-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm fast-medium"
+                ]
+              },
+              "firstPlayerRuns": 19,
+              "firstPlayerBalls": 20,
+              "secondPlayerRuns": 2,
+              "secondPlayerBalls": 17
+            }
+          ]
+        },
+        "inningNumber": 2
+      },
+      {
+        "team": {
+          "id": 422,
+          "byes": 0,
+          "logo": "https://highlightly.net/cricket/images/teams/422.png",
+          "name": "Sri Lanka",
+          "fours": 8,
+          "sixes": 2,
+          "wides": 0,
+          "extras": 2,
+          "legByes": 1,
+          "noBalls": 1,
+          "abbreviation": "SL",
+          "fallOfWickets": [
+            {
+              "runs": 2,
+              "order": 0,
+              "overs": 1.4,
+              "dismissalBatsman": {
+                "name": "Lahiru Udara"
+              }
+            },
+            {
+              "runs": 32,
+              "order": 1,
+              "overs": 10.1,
+              "dismissalBatsman": {
+                "name": "Nishan Fernando"
+              }
+            }
+          ],
+          "inningBatsmen": [
+            {
+              "runs": 20,
+              "balls": 28,
+              "fours": 2,
+              "sixes": 0,
+              "player": {
+                "id": "2b0e94a3-a8f3-4bad-80fd-f7f19a197a81",
+                "name": "Nishan Fernando",
+                "roles": [
+                  "wicketkeeper batter"
+                ],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": []
+              },
+              "dismissalStatus": "caught",
+              "battingStrikeRate": 71.42,
+              "dismissalFielders": [
+                {
+                  "name": "John Campbell",
+                  "isKeeper": false,
+                  "isSubstitute": false
+                }
+              ]
+            },
+            {
+              "runs": 0,
+              "balls": 4,
+              "fours": 0,
+              "sixes": 0,
+              "player": {
+                "id": "85cb92d5-ca89-4079-a59a-a2abb5e895bf",
+                "name": "Lahiru Udara",
+                "roles": [
+                  "wicketkeeper batter"
+                ],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": []
+              },
+              "dismissalStatus": "lbw",
+              "battingStrikeRate": 0,
+              "dismissalFielders": []
+            },
+            {
+              "runs": 40,
+              "balls": 66,
+              "fours": 3,
+              "sixes": 1,
+              "player": {
+                "id": "90d9e097-edaa-4c76-8bde-32f392343da9",
+                "name": "Dinesh Chandimal",
+                "roles": [
+                  "wicketkeeper batter"
+                ],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm offbreak"
+                ]
+              },
+              "dismissalStatus": "not out",
+              "battingStrikeRate": 60.6,
+              "dismissalFielders": []
+            },
+            {
+              "runs": 30,
+              "balls": 35,
+              "fours": 3,
+              "sixes": 1,
+              "player": {
+                "id": "8a103855-6093-4786-becb-8b2b460f6532",
+                "name": "Kamindu Mendis",
+                "roles": [
+                  "allrounder"
+                ],
+                "battingStyles": [
+                  "left-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm offbreak",
+                  "slow left-arm orthodox"
+                ]
+              },
+              "dismissalStatus": "not out",
+              "battingStrikeRate": 85.71,
+              "dismissalFielders": []
+            },
+            {
+              "runs": null,
+              "balls": null,
+              "fours": null,
+              "sixes": null,
+              "player": {
+                "id": "4cd7d84d-fc00-4f40-b2cb-bc5cee86045c",
+                "name": "Kusal Mendis",
+                "roles": [
+                  "wicketkeeper batter"
+                ],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "legbreak"
+                ]
+              },
+              "dismissalStatus": null,
+              "battingStrikeRate": null,
+              "dismissalFielders": []
+            },
+            {
+              "runs": null,
+              "balls": null,
+              "fours": null,
+              "sixes": null,
+              "player": {
+                "id": "8a4c0053-b8da-4f0f-9027-c26c24c4ed90",
+                "name": "Dhananjaya de Silva",
+                "roles": [
+                  "allrounder"
+                ],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm offbreak"
+                ]
+              },
+              "dismissalStatus": null,
+              "battingStrikeRate": null,
+              "dismissalFielders": []
+            },
+            {
+              "runs": null,
+              "balls": null,
+              "fours": null,
+              "sixes": null,
+              "player": {
+                "id": "08f577ac-f25f-4d1f-9022-d8c299930bab",
+                "name": "Sonal Dinusha",
+                "roles": [
+                  "bowling allrounder"
+                ],
+                "battingStyles": [
+                  "left-hand bat"
+                ],
+                "bowlingStyles": [
+                  "slow left-arm orthodox"
+                ]
+              },
+              "dismissalStatus": null,
+              "battingStrikeRate": null,
+              "dismissalFielders": []
+            },
+            {
+              "runs": null,
+              "balls": null,
+              "fours": null,
+              "sixes": null,
+              "player": {
+                "id": "5c440475-b5f7-40a1-b889-086a36de42dc",
+                "name": "Milan Rathnayaka",
+                "roles": [
+                  "bowler"
+                ],
+                "battingStyles": [
+                  "left-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm medium-fast"
+                ]
+              },
+              "dismissalStatus": null,
+              "battingStrikeRate": null,
+              "dismissalFielders": []
+            },
+            {
+              "runs": null,
+              "balls": null,
+              "fours": null,
+              "sixes": null,
+              "player": {
+                "id": "af34dffc-46f6-463a-8ba7-217d516e84bc",
+                "name": "Isitha Wijesundara",
+                "roles": [
+                  "bowling allrounder"
+                ],
+                "battingStyles": [
+                  "left-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm medium-fast"
+                ]
+              },
+              "dismissalStatus": null,
+              "battingStrikeRate": null,
+              "dismissalFielders": []
+            },
+            {
+              "runs": null,
+              "balls": null,
+              "fours": null,
+              "sixes": null,
+              "player": {
+                "id": "58b9f43b-1659-41ef-8794-6e5662e00183",
+                "name": "Prabath Jayasuriya",
+                "roles": [
+                  "bowler"
+                ],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "slow left-arm orthodox"
+                ]
+              },
+              "dismissalStatus": null,
+              "battingStrikeRate": null,
+              "dismissalFielders": []
+            },
+            {
+              "runs": null,
+              "balls": null,
+              "fours": null,
+              "sixes": null,
+              "player": {
+                "id": "c5ffff28-239a-4a77-bd57-fa914c57834d",
+                "name": "Asitha Fernando",
+                "roles": [
+                  "bowler"
+                ],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm medium-fast"
+                ]
+              },
+              "dismissalStatus": null,
+              "battingStrikeRate": null,
+              "dismissalFielders": []
+            }
+          ],
+          "inningBowlers": [
+            {
+              "overs": 7,
+              "player": {
+                "name": "Jayden Seales",
+                "roles": [
+                  "bowler"
+                ],
+                "battingStyles": [
+                  "left-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm fast-medium"
+                ]
+              },
+              "economy": 3.71,
+              "maidens": 0,
+              "wickets": 0,
+              "concededRuns": 26
+            },
+            {
+              "overs": 7,
+              "player": {
+                "name": "Shamar Joseph",
+                "roles": [
+                  "bowler"
+                ],
+                "battingStyles": [
+                  "left-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm fast"
+                ]
+              },
+              "economy": 3.85,
+              "maidens": 1,
+              "wickets": 1,
+              "concededRuns": 27
+            },
+            {
+              "overs": 4,
+              "player": {
+                "name": "Alzarri Joseph",
+                "roles": [
+                  "bowler"
+                ],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm fast"
+                ]
+              },
+              "economy": 4.25,
+              "maidens": 0,
+              "wickets": 1,
+              "concededRuns": 17
+            },
+            {
+              "overs": 4,
+              "player": {
+                "name": "Anderson Phillip",
+                "roles": [
+                  "bowler"
+                ],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm fast-medium"
+                ]
+              },
+              "economy": 5.25,
+              "maidens": 1,
+              "wickets": 0,
+              "concededRuns": 21
+            }
+          ],
+          "fieldingSummary": {
+            "catches": 1,
+            "runOuts": null,
+            "runsSaved": 2,
+            "stumpings": null,
+            "catchesDropped": null
+          },
+          "inningPartnerships": [
+            {
+              "runs": 2,
+              "balls": 10,
+              "overs": 1.4,
+              "firstPlayer": {
+                "id": "85cb92d5-ca89-4079-a59a-a2abb5e895bf",
+                "name": "Lahiru Udara",
+                "roles": [
+                  "wicketkeeper batter"
+                ],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": []
+              },
+              "secondPlayer": {
+                "id": "2b0e94a3-a8f3-4bad-80fd-f7f19a197a81",
+                "name": "Nishan Fernando",
+                "roles": [
+                  "wicketkeeper batter"
+                ],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": []
+              },
+              "firstPlayerRuns": 0,
+              "firstPlayerBalls": 4,
+              "secondPlayerRuns": 2,
+              "secondPlayerBalls": 6
+            },
+            {
+              "runs": 30,
+              "balls": 51,
+              "overs": 8.3,
+              "firstPlayer": {
+                "id": "90d9e097-edaa-4c76-8bde-32f392343da9",
+                "name": "Dinesh Chandimal",
+                "roles": [
+                  "wicketkeeper batter"
+                ],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm offbreak"
+                ]
+              },
+              "secondPlayer": {
+                "id": "2b0e94a3-a8f3-4bad-80fd-f7f19a197a81",
+                "name": "Nishan Fernando",
+                "roles": [
+                  "wicketkeeper batter"
+                ],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": []
+              },
+              "firstPlayerRuns": 12,
+              "firstPlayerBalls": 29,
+              "secondPlayerRuns": 18,
+              "secondPlayerBalls": 22
+            },
+            {
+              "runs": 60,
+              "balls": 72,
+              "overs": 11.5,
+              "firstPlayer": {
+                "id": "90d9e097-edaa-4c76-8bde-32f392343da9",
+                "name": "Dinesh Chandimal",
+                "roles": [
+                  "wicketkeeper batter"
+                ],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm offbreak"
+                ]
+              },
+              "secondPlayer": {
+                "id": "8a103855-6093-4786-becb-8b2b460f6532",
+                "name": "Kamindu Mendis",
+                "roles": [
+                  "allrounder"
+                ],
+                "battingStyles": [
+                  "left-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm offbreak",
+                  "slow left-arm orthodox"
+                ]
+              },
+              "firstPlayerRuns": 28,
+              "firstPlayerBalls": 37,
+              "secondPlayerRuns": 30,
+              "secondPlayerBalls": 35
+            }
+          ]
+        },
+        "inningNumber": 3
+      }
+    ],
+    "squad": [
+      {
+        "team": {
+          "id": 422,
+          "logo": "https://highlightly.net/cricket/images/teams/422.png",
+          "name": "Sri Lanka",
+          "abbreviation": "SL"
+        },
+        "players": [
+          {
+            "id": {
+              "id": "2b0e94a3-a8f3-4bad-80fd-f7f19a197a81",
+              "name": "Nishan Fernando",
+              "roles": [],
+              "battingStyles": [
+                "right-hand bat"
+              ],
+              "bowlingStyles": []
+            },
+            "name": "Nishan Fernando",
+            "roles": [
+              "wicketkeeper batter"
+            ],
+            "battingStyles": [
+              "right-hand bat"
+            ],
+            "bowlingStyles": []
+          },
+          {
+            "id": {
+              "id": "85cb92d5-ca89-4079-a59a-a2abb5e895bf",
+              "name": "Lahiru Udara",
+              "roles": [],
+              "battingStyles": [
+                "right-hand bat"
+              ],
+              "bowlingStyles": []
+            },
+            "name": "Lahiru Udara",
+            "roles": [
+              "wicketkeeper batter"
+            ],
+            "battingStyles": [
+              "right-hand bat"
+            ],
+            "bowlingStyles": []
+          },
+          {
+            "id": {
+              "id": "90d9e097-edaa-4c76-8bde-32f392343da9",
+              "name": "Dinesh Chandimal",
+              "roles": [
+                "right-arm offbreak"
+              ],
+              "battingStyles": [
+                "right-hand bat"
+              ],
+              "bowlingStyles": [
+                "right-arm offbreak"
+              ]
+            },
+            "name": "Dinesh Chandimal",
+            "roles": [
+              "wicketkeeper batter"
+            ],
+            "battingStyles": [
+              "right-hand bat"
+            ],
+            "bowlingStyles": [
+              "right-arm offbreak"
+            ]
+          },
+          {
+            "id": {
+              "id": "8a103855-6093-4786-becb-8b2b460f6532",
+              "name": "Kamindu Mendis",
+              "roles": [
+                "right-arm offbreak",
+                "slow left-arm orthodox"
+              ],
+              "battingStyles": [
+                "left-hand bat"
+              ],
+              "bowlingStyles": [
+                "right-arm offbreak",
+                "slow left-arm orthodox"
+              ]
+            },
+            "name": "Kamindu Mendis",
+            "roles": [
+              "allrounder"
+            ],
+            "battingStyles": [
+              "left-hand bat"
+            ],
+            "bowlingStyles": [
+              "right-arm offbreak",
+              "slow left-arm orthodox"
+            ]
+          },
+          {
+            "id": {
+              "id": "8a4c0053-b8da-4f0f-9027-c26c24c4ed90",
+              "name": "Dhananjaya de Silva",
+              "roles": [
+                "right-arm offbreak"
+              ],
+              "battingStyles": [
+                "right-hand bat"
+              ],
+              "bowlingStyles": [
+                "right-arm offbreak"
+              ]
+            },
+            "name": "Dhananjaya de Silva",
+            "roles": [
+              "allrounder"
+            ],
+            "battingStyles": [
+              "right-hand bat"
+            ],
+            "bowlingStyles": [
+              "right-arm offbreak"
+            ]
+          },
+          {
+            "id": {
+              "id": "4cd7d84d-fc00-4f40-b2cb-bc5cee86045c",
+              "name": "Kusal Mendis",
+              "roles": [
+                "legbreak"
+              ],
+              "battingStyles": [
+                "right-hand bat"
+              ],
+              "bowlingStyles": [
+                "legbreak"
+              ]
+            },
+            "name": "Kusal Mendis",
+            "roles": [
+              "wicketkeeper batter"
+            ],
+            "battingStyles": [
+              "right-hand bat"
+            ],
+            "bowlingStyles": [
+              "legbreak"
+            ]
+          },
+          {
+            "id": {
+              "id": "08f577ac-f25f-4d1f-9022-d8c299930bab",
+              "name": "Sonal Dinusha",
+              "roles": [
+                "slow left-arm orthodox"
+              ],
+              "battingStyles": [
+                "left-hand bat"
+              ],
+              "bowlingStyles": [
+                "slow left-arm orthodox"
+              ]
+            },
+            "name": "Sonal Dinusha",
+            "roles": [
+              "bowling allrounder"
+            ],
+            "battingStyles": [
+              "left-hand bat"
+            ],
+            "bowlingStyles": [
+              "slow left-arm orthodox"
+            ]
+          },
+          {
+            "id": {
+              "id": "5c440475-b5f7-40a1-b889-086a36de42dc",
+              "name": "Milan Rathnayaka",
+              "roles": [
+                "right-arm medium-fast"
+              ],
+              "battingStyles": [
+                "left-hand bat"
+              ],
+              "bowlingStyles": [
+                "right-arm medium-fast"
+              ]
+            },
+            "name": "Milan Rathnayaka",
+            "roles": [
+              "bowler"
+            ],
+            "battingStyles": [
+              "left-hand bat"
+            ],
+            "bowlingStyles": [
+              "right-arm medium-fast"
+            ]
+          },
+          {
+            "id": {
+              "id": "58b9f43b-1659-41ef-8794-6e5662e00183",
+              "name": "Prabath Jayasuriya",
+              "roles": [
+                "slow left-arm orthodox"
+              ],
+              "battingStyles": [
+                "right-hand bat"
+              ],
+              "bowlingStyles": [
+                "slow left-arm orthodox"
+              ]
+            },
+            "name": "Prabath Jayasuriya",
+            "roles": [
+              "bowler"
+            ],
+            "battingStyles": [
+              "right-hand bat"
+            ],
+            "bowlingStyles": [
+              "slow left-arm orthodox"
+            ]
+          },
+          {
+            "id": {
+              "id": "af34dffc-46f6-463a-8ba7-217d516e84bc",
+              "name": "Isitha Wijesundara",
+              "roles": [
+                "right-arm medium-fast"
+              ],
+              "battingStyles": [
+                "left-hand bat"
+              ],
+              "bowlingStyles": [
+                "right-arm medium-fast"
+              ]
+            },
+            "name": "Isitha Wijesundara",
+            "roles": [
+              "bowling allrounder"
+            ],
+            "battingStyles": [
+              "left-hand bat"
+            ],
+            "bowlingStyles": [
+              "right-arm medium-fast"
+            ]
+          },
+          {
+            "id": {
+              "id": "c5ffff28-239a-4a77-bd57-fa914c57834d",
+              "name": "Asitha Fernando",
+              "roles": [
+                "right-arm medium-fast"
+              ],
+              "battingStyles": [
+                "right-hand bat"
+              ],
+              "bowlingStyles": [
+                "right-arm medium-fast"
+              ]
+            },
+            "name": "Asitha Fernando",
+            "roles": [
+              "bowler"
+            ],
+            "battingStyles": [
+              "right-hand bat"
+            ],
+            "bowlingStyles": [
+              "right-arm medium-fast"
+            ]
+          }
+        ]
+      },
+      {
+        "team": {
+          "id": 282,
+          "logo": "https://highlightly.net/cricket/images/teams/282.png",
+          "name": "West Indies",
+          "abbreviation": "WI"
+        },
+        "players": [
+          {
+            "id": {
+              "id": "a0bd795b-a9de-4994-b84b-bb02b9113a62",
+              "name": "John Campbell",
+              "roles": [
+                "right-arm offbreak"
+              ],
+              "battingStyles": [
+                "left-hand bat"
+              ],
+              "bowlingStyles": [
+                "right-arm offbreak"
+              ]
+            },
+            "name": "John Campbell",
+            "roles": [
+              "opening batter"
+            ],
+            "battingStyles": [
+              "left-hand bat"
+            ],
+            "bowlingStyles": [
+              "right-arm offbreak"
+            ]
+          },
+          {
+            "id": {
+              "id": "af50ac75-8095-4767-b10e-627c6670b167",
+              "name": "Brandon King",
+              "roles": [],
+              "battingStyles": [
+                "right-hand bat"
+              ],
+              "bowlingStyles": []
+            },
+            "name": "Brandon King",
+            "roles": [
+              "top-order batter"
+            ],
+            "battingStyles": [
+              "right-hand bat"
+            ],
+            "bowlingStyles": []
+          },
+          {
+            "id": {
+              "id": "1d6da402-71ae-4ba3-8619-fde3394335cf",
+              "name": "Kavem Hodge",
+              "roles": [
+                "slow left-arm orthodox"
+              ],
+              "battingStyles": [
+                "right-hand bat"
+              ],
+              "bowlingStyles": [
+                "slow left-arm orthodox"
+              ]
+            },
+            "name": "Kavem Hodge",
+            "roles": [
+              "allrounder"
+            ],
+            "battingStyles": [
+              "right-hand bat"
+            ],
+            "bowlingStyles": [
+              "slow left-arm orthodox"
+            ]
+          },
+          {
+            "id": {
+              "id": "44721a13-d9ca-46b9-922a-a7e65f811f90",
+              "name": "Amir Jangoo",
+              "roles": [],
+              "battingStyles": [
+                "left-hand bat"
+              ],
+              "bowlingStyles": []
+            },
+            "name": "Amir Jangoo",
+            "roles": [
+              "wicketkeeper batter"
+            ],
+            "battingStyles": [
+              "left-hand bat"
+            ],
+            "bowlingStyles": []
+          },
+          {
+            "id": {
+              "id": "a3a58feb-77a1-4f36-b325-eb2a90021f94",
+              "name": "Shai Hope",
+              "roles": [],
+              "battingStyles": [
+                "right-hand bat"
+              ],
+              "bowlingStyles": []
+            },
+            "name": "Shai Hope",
+            "roles": [
+              "wicketkeeper batter"
+            ],
+            "battingStyles": [
+              "right-hand bat"
+            ],
+            "bowlingStyles": []
+          },
+          {
+            "id": {
+              "id": "3b716fe2-ac53-4772-a94c-1d7be1d4e7d4",
+              "name": "Justin Greaves",
+              "roles": [
+                "right-arm medium"
+              ],
+              "battingStyles": [
+                "right-hand bat"
+              ],
+              "bowlingStyles": [
+                "right-arm medium"
+              ]
+            },
+            "name": "Justin Greaves",
+            "roles": [
+              "allrounder"
+            ],
+            "battingStyles": [
+              "right-hand bat"
+            ],
+            "bowlingStyles": [
+              "right-arm medium"
+            ]
+          },
+          {
+            "id": {
+              "id": "34a60952-a34f-4f8b-bedc-bd2f3f649726",
+              "name": "Roston Chase",
+              "roles": [
+                "right-arm offbreak"
+              ],
+              "battingStyles": [
+                "right-hand bat"
+              ],
+              "bowlingStyles": [
+                "right-arm offbreak"
+              ]
+            },
+            "name": "Roston Chase",
+            "roles": [
+              "allrounder"
+            ],
+            "battingStyles": [
+              "right-hand bat"
+            ],
+            "bowlingStyles": [
+              "right-arm offbreak"
+            ]
+          },
+          {
+            "id": {
+              "id": "4a58fc60-b7ca-4871-abfc-b60418494ba9",
+              "name": "Anderson Phillip",
+              "roles": [
+                "right-arm fast-medium"
+              ],
+              "battingStyles": [
+                "right-hand bat"
+              ],
+              "bowlingStyles": [
+                "right-arm fast-medium"
+              ]
+            },
+            "name": "Anderson Phillip",
+            "roles": [
+              "bowler"
+            ],
+            "battingStyles": [
+              "right-hand bat"
+            ],
+            "bowlingStyles": [
+              "right-arm fast-medium"
+            ]
+          },
+          {
+            "id": {
+              "id": "0b232aa2-65c1-4289-80e5-ea7c533421df",
+              "name": "Alzarri Joseph",
+              "roles": [
+                "right-arm fast"
+              ],
+              "battingStyles": [
+                "right-hand bat"
+              ],
+              "bowlingStyles": [
+                "right-arm fast"
+              ]
+            },
+            "name": "Alzarri Joseph",
+            "roles": [
+              "bowler"
+            ],
+            "battingStyles": [
+              "right-hand bat"
+            ],
+            "bowlingStyles": [
+              "right-arm fast"
+            ]
+          },
+          {
+            "id": {
+              "id": "317cc729-39fb-4a16-86bd-576505e3fffa",
+              "name": "Shamar Joseph",
+              "roles": [
+                "right-arm fast"
+              ],
+              "battingStyles": [
+                "left-hand bat"
+              ],
+              "bowlingStyles": [
+                "right-arm fast"
+              ]
+            },
+            "name": "Shamar Joseph",
+            "roles": [
+              "bowler"
+            ],
+            "battingStyles": [
+              "left-hand bat"
+            ],
+            "bowlingStyles": [
+              "right-arm fast"
+            ]
+          },
+          {
+            "id": {
+              "id": "747ccff5-1fea-4535-97ca-8530a41d3ecd",
+              "name": "Jayden Seales",
+              "roles": [
+                "right-arm fast-medium"
+              ],
+              "battingStyles": [
+                "left-hand bat"
+              ],
+              "bowlingStyles": [
+                "right-arm fast-medium"
+              ]
+            },
+            "name": "Jayden Seales",
+            "roles": [
+              "bowler"
+            ],
+            "battingStyles": [
+              "left-hand bat"
+            ],
+            "bowlingStyles": [
+              "right-arm fast-medium"
+            ]
+          }
+        ]
+      }
+    ],
+    "bestBatsmen": [
+      {
+        "team": {
+          "id": 422,
+          "logo": "https://highlightly.net/cricket/images/teams/422.png",
+          "name": "Sri Lanka",
+          "abbreviation": "SL"
+        },
+        "players": [
+          {
+            "id": {
+              "id": "90d9e097-edaa-4c76-8bde-32f392343da9",
+              "name": "Dinesh Chandimal",
+              "roles": [
+                "right-arm offbreak"
+              ],
+              "battingStyles": [
+                "right-hand bat"
+              ],
+              "bowlingStyles": [
+                "right-arm offbreak"
+              ]
+            },
+            "name": "Dinesh Chandimal",
+            "roles": [
+              "wicketkeeper batter"
+            ],
+            "statistics": {
+              "runs": 802,
+              "average": 47.1765,
+              "innings": 17,
+              "matches": 10,
+              "battingStrikeRate": 50.15
+            },
+            "battingStyles": [
+              "right-hand bat"
+            ],
+            "bowlingStyles": [
+              "right-arm offbreak"
+            ]
+          },
+          {
+            "id": {
+              "id": "8a103855-6093-4786-becb-8b2b460f6532",
+              "name": "Kamindu Mendis",
+              "roles": [
+                "right-arm offbreak",
+                "slow left-arm orthodox"
+              ],
+              "battingStyles": [
+                "left-hand bat"
+              ],
+              "bowlingStyles": [
+                "right-arm offbreak",
+                "slow left-arm orthodox"
+              ]
+            },
+            "name": "Kamindu Mendis",
+            "roles": [
+              "allrounder"
+            ],
+            "statistics": {
+              "runs": 694,
+              "average": 46.2667,
+              "innings": 17,
+              "matches": 10,
+              "battingStrikeRate": 64.25
+            },
+            "battingStyles": [
+              "left-hand bat"
+            ],
+            "bowlingStyles": [
+              "right-arm offbreak",
+              "slow left-arm orthodox"
+            ]
+          }
+        ]
+      },
+      {
+        "team": {
+          "id": 282,
+          "logo": "https://highlightly.net/cricket/images/teams/282.png",
+          "name": "West Indies",
+          "abbreviation": "WI"
+        },
+        "players": [
+          {
+            "id": {
+              "id": "a3a58feb-77a1-4f36-b325-eb2a90021f94",
+              "name": "Shai Hope",
+              "roles": [],
+              "battingStyles": [
+                "right-hand bat"
+              ],
+              "bowlingStyles": []
+            },
+            "name": "Shai Hope",
+            "roles": [
+              "wicketkeeper batter"
+            ],
+            "statistics": {
+              "runs": 534,
+              "average": 33.375,
+              "innings": 16,
+              "matches": 8,
+              "battingStrikeRate": 50.61
+            },
+            "battingStyles": [
+              "right-hand bat"
+            ],
+            "bowlingStyles": []
+          },
+          {
+            "id": {
+              "id": "3b716fe2-ac53-4772-a94c-1d7be1d4e7d4",
+              "name": "Justin Greaves",
+              "roles": [
+                "right-arm medium"
+              ],
+              "battingStyles": [
+                "right-hand bat"
+              ],
+              "bowlingStyles": [
+                "right-arm medium"
+              ]
+            },
+            "name": "Justin Greaves",
+            "roles": [
+              "allrounder"
+            ],
+            "statistics": {
+              "runs": 495,
+              "average": 30.9375,
+              "innings": 19,
+              "matches": 10,
+              "battingStrikeRate": 50.66
+            },
+            "battingStyles": [
+              "right-hand bat"
+            ],
+            "bowlingStyles": [
+              "right-arm medium"
+            ]
+          }
+        ]
+      }
+    ],
+    "bestBowlers": [
+      {
+        "team": {
+          "id": 422,
+          "logo": "https://highlightly.net/cricket/images/teams/422.png",
+          "name": "Sri Lanka",
+          "abbreviation": "SL"
+        },
+        "players": [
+          {
+            "id": {
+              "id": "58b9f43b-1659-41ef-8794-6e5662e00183",
+              "name": "Prabath Jayasuriya",
+              "roles": [
+                "slow left-arm orthodox"
+              ],
+              "battingStyles": [
+                "right-hand bat"
+              ],
+              "bowlingStyles": [
+                "slow left-arm orthodox"
+              ]
+            },
+            "name": "Prabath Jayasuriya",
+            "roles": [
+              "bowler"
+            ],
+            "statistics": {
+              "balls": 2656,
+              "average": 33.86,
+              "economy": 3.29,
+              "innings": 15,
+              "matches": 8,
+              "wickets": 43,
+              "concededRuns": 1456,
+              "battingStrikeRate": 61.76
+            },
+            "battingStyles": [
+              "right-hand bat"
+            ],
+            "bowlingStyles": [
+              "slow left-arm orthodox"
+            ]
+          },
+          {
+            "id": {
+              "id": "c5ffff28-239a-4a77-bd57-fa914c57834d",
+              "name": "Asitha Fernando",
+              "roles": [
+                "right-arm medium-fast"
+              ],
+              "battingStyles": [
+                "right-hand bat"
+              ],
+              "bowlingStyles": [
+                "right-arm medium-fast"
+              ]
+            },
+            "name": "Asitha Fernando",
+            "roles": [
+              "bowler"
+            ],
+            "statistics": {
+              "balls": 1362,
+              "average": 33.22,
+              "economy": 3.37,
+              "innings": 16,
+              "matches": 9,
+              "wickets": 23,
+              "concededRuns": 764,
+              "battingStrikeRate": 59.21
+            },
+            "battingStyles": [
+              "right-hand bat"
+            ],
+            "bowlingStyles": [
+              "right-arm medium-fast"
+            ]
+          }
+        ]
+      },
+      {
+        "team": {
+          "id": 282,
+          "logo": "https://highlightly.net/cricket/images/teams/282.png",
+          "name": "West Indies",
+          "abbreviation": "WI"
+        },
+        "players": [
+          {
+            "id": {
+              "id": "317cc729-39fb-4a16-86bd-576505e3fffa",
+              "name": "Shamar Joseph",
+              "roles": [
+                "right-arm fast"
+              ],
+              "battingStyles": [
+                "left-hand bat"
+              ],
+              "bowlingStyles": [
+                "right-arm fast"
+              ]
+            },
+            "name": "Shamar Joseph",
+            "roles": [
+              "bowler"
+            ],
+            "statistics": {
+              "balls": 746,
+              "average": 16.42,
+              "economy": 3.43,
+              "innings": 8,
+              "matches": 4,
+              "wickets": 26,
+              "concededRuns": 427,
+              "battingStrikeRate": 28.69
+            },
+            "battingStyles": [
+              "left-hand bat"
+            ],
+            "bowlingStyles": [
+              "right-arm fast"
+            ]
+          },
+          {
+            "id": {
+              "id": "747ccff5-1fea-4535-97ca-8530a41d3ecd",
+              "name": "Jayden Seales",
+              "roles": [
+                "right-arm fast-medium"
+              ],
+              "battingStyles": [
+                "left-hand bat"
+              ],
+              "bowlingStyles": [
+                "right-arm fast-medium"
+              ]
+            },
+            "name": "Jayden Seales",
+            "roles": [
+              "bowler"
+            ],
+            "statistics": {
+              "balls": 1549,
+              "average": 36.46,
+              "economy": 3.39,
+              "innings": 17,
+              "matches": 9,
+              "wickets": 24,
+              "concededRuns": 875,
+              "battingStrikeRate": 64.54
+            },
+            "battingStyles": [
+              "left-hand bat"
+            ],
+            "bowlingStyles": [
+              "right-arm fast-medium"
+            ]
+          }
+        ]
+      }
+    ],
+    "id": "53841062",
+    "startDate": "2026-07-03T00:00:00.000Z",
+    "endDate": "2026-07-07T00:00:00.000Z",
+    "country": {
+      "code": "World",
+      "name": "World",
+      "logo": "http://highlightly.net/cricket/images/countries/World.png"
+    },
+    "dayType": "MULTI",
+    "format": "TEST",
+    "startTime": "2026-07-03T14:00:00.000Z",
+    "state": {
+      "teams": {
+        "away": {
+          "info": "22 ov",
+          "score": "549/9d & 92/2"
+        },
+        "home": {
+          "info": null,
+          "score": "499"
+        }
+      },
+      "report": "Day 4 - Sri Lanka lead by 142 runs.",
+      "description": "Stumps"
+    },
+    "awayTeam": {
+      "id": "422",
+      "logo": "https://highlightly.net/cricket/images/teams/422.png",
+      "name": "Sri Lanka",
+      "abbreviation": "SL"
+    },
+    "homeTeam": {
+      "id": "282",
+      "logo": "https://highlightly.net/cricket/images/teams/282.png",
+      "name": "West Indies",
+      "abbreviation": "WI"
+    },
+    "inplayData": {
+      "batsmen": [
+        {
+          "team": {
+            "id": "422",
+            "logo": "https://highlightly.net/cricket/images/teams/422.png",
+            "name": "Sri Lanka",
+            "abbreviation": "SL"
+          },
+          "player": {
+            "name": "Kamindu Mendis",
+            "roles": [
+              "allrounder"
+            ],
+            "inning": 3,
+            "statistics": {
+              "runs": 30,
+              "balls": 34,
+              "fours": 3,
+              "sixes": 1,
+              "strikeRate": 88.23
+            },
+            "battingStyles": [
+              "lhb"
+            ],
+            "bowlingStyles": [
+              "ob",
+              "sla"
+            ]
+          }
+        },
+        {
+          "team": {
+            "id": "422",
+            "logo": "https://highlightly.net/cricket/images/teams/422.png",
+            "name": "Sri Lanka",
+            "abbreviation": "SL"
+          },
+          "player": {
+            "name": "Dinesh Chandimal",
+            "roles": [
+              "wicketkeeper batter"
+            ],
+            "inning": 3,
+            "statistics": {
+              "runs": 40,
+              "balls": 66,
+              "fours": 3,
+              "sixes": 1,
+              "strikeRate": 60.6
+            },
+            "battingStyles": [
+              "rhb"
+            ],
+            "bowlingStyles": [
+              "ob"
+            ]
+          }
+        }
+      ],
+      "bowlers": [
+        {
+          "team": {
+            "id": "282",
+            "logo": "https://highlightly.net/cricket/images/teams/282.png",
+            "name": "West Indies",
+            "abbreviation": "WI"
+          },
+          "player": {
+            "name": "Shamar Joseph",
+            "roles": [
+              "bowler"
+            ],
+            "statistics": {
+              "balls": 41,
+              "overs": 6.5,
+              "economy": 3.95,
+              "wickets": 1,
+              "runsConceded": 27
+            },
+            "battingStyles": [
+              "lhb"
+            ],
+            "bowlingStyles": [
+              "rf"
+            ]
+          }
+        },
+        {
+          "team": {
+            "id": "282",
+            "logo": "https://highlightly.net/cricket/images/teams/282.png",
+            "name": "West Indies",
+            "abbreviation": "WI"
+          },
+          "player": {
+            "name": "Jayden Seales",
+            "roles": [
+              "bowler"
+            ],
+            "statistics": {
+              "balls": 42,
+              "overs": 7,
+              "economy": 3.71,
+              "wickets": 0,
+              "runsConceded": 26
+            },
+            "battingStyles": [
+              "lhb"
+            ],
+            "bowlingStyles": [
+              "rfm"
+            ]
+          }
+        }
+      ]
+    },
+    "league": {
+      "id": "51537992",
+      "logo": null,
+      "name": "ICC World Test Championship",
+      "season": 2025
+    }
+  }
+]

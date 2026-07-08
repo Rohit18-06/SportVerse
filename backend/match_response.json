@@ -1,0 +1,2120 @@
+[
+  {
+    "predictions": null,
+    "venue": {
+      "city": null,
+      "name": null,
+      "country": null,
+      "capacity": null
+    },
+    "forecast": {
+      "status": null,
+      "temperature": null
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 5497,
+          "byes": 5,
+          "logo": "https://highlightly.net/cricket/images/teams/5497.png",
+          "name": "Sweden",
+          "fours": null,
+          "sixes": null,
+          "wides": 4,
+          "extras": 14,
+          "legByes": 4,
+          "noBalls": 1,
+          "abbreviation": "SWE",
+          "fallOfWickets": [
+            {
+              "runs": 15,
+              "order": 0,
+              "overs": 1.3,
+              "dismissalBatsman": {
+                "name": "Ajay Mundra"
+              }
+            },
+            {
+              "runs": 15,
+              "order": 1,
+              "overs": 1.6,
+              "dismissalBatsman": {
+                "name": "Zaid Ahmad"
+              }
+            },
+            {
+              "runs": 37,
+              "order": 2,
+              "overs": 4.2,
+              "dismissalBatsman": {
+                "name": "Darshan Lakhani"
+              }
+            },
+            {
+              "runs": 65,
+              "order": 3,
+              "overs": 9.5,
+              "dismissalBatsman": {
+                "name": "Yatharth Chauhan"
+              }
+            },
+            {
+              "runs": 85,
+              "order": 4,
+              "overs": 11.5,
+              "dismissalBatsman": {
+                "name": "Wynand Boshoff"
+              }
+            },
+            {
+              "runs": 107,
+              "order": 5,
+              "overs": 15.4,
+              "dismissalBatsman": {
+                "name": "Advait Dhabe"
+              }
+            },
+            {
+              "runs": 109,
+              "order": 6,
+              "overs": 16.1,
+              "dismissalBatsman": {
+                "name": "Imal Zuwak"
+              }
+            },
+            {
+              "runs": 117,
+              "order": 7,
+              "overs": 17.1,
+              "dismissalBatsman": {
+                "name": "Sami Rahmani"
+              }
+            },
+            {
+              "runs": 142,
+              "order": 8,
+              "overs": 19.5,
+              "dismissalBatsman": {
+                "name": "Zabiullah Zahid"
+              }
+            }
+          ],
+          "inningBatsmen": [
+            {
+              "runs": 9,
+              "balls": 5,
+              "fours": 1,
+              "sixes": 0,
+              "player": {
+                "id": "0bece712-4034-4349-821a-723a64ab63f7",
+                "name": "Ajay Mundra",
+                "roles": [],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": []
+              },
+              "dismissalStatus": "caught",
+              "battingStrikeRate": 180,
+              "dismissalFielders": [
+                {
+                  "name": "Upen Shantu",
+                  "isKeeper": false,
+                  "isSubstitute": false
+                }
+              ]
+            },
+            {
+              "runs": 21,
+              "balls": 14,
+              "fours": 3,
+              "sixes": 1,
+              "player": {
+                "id": "b374fb01-7faa-48fc-877f-b33ebba8d46a",
+                "name": "Darshan Lakhani",
+                "roles": [],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm medium"
+                ]
+              },
+              "dismissalStatus": "caught",
+              "battingStrikeRate": 150,
+              "dismissalFielders": [
+                {
+                  "name": "Dhavalkumar Norotam",
+                  "isKeeper": false,
+                  "isSubstitute": false
+                }
+              ]
+            },
+            {
+              "runs": 0,
+              "balls": 3,
+              "fours": 0,
+              "sixes": 0,
+              "player": {
+                "id": "8d4bfc6d-c4b0-4aa2-98cb-511e11b87d10",
+                "name": "Zaid Ahmad",
+                "roles": [],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm medium"
+                ]
+              },
+              "dismissalStatus": "caught",
+              "battingStrikeRate": 0,
+              "dismissalFielders": [
+                {
+                  "name": "Dhavalkumar Norotam",
+                  "isKeeper": false,
+                  "isSubstitute": false
+                }
+              ]
+            },
+            {
+              "runs": 32,
+              "balls": 34,
+              "fours": 3,
+              "sixes": 0,
+              "player": {
+                "id": "5fc175f4-6fdd-42ac-bbde-9aedf0d6b018",
+                "name": "Imal Zuwak",
+                "roles": [],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm medium-fast"
+                ]
+              },
+              "dismissalStatus": "caught",
+              "battingStrikeRate": 94.11,
+              "dismissalFielders": [
+                {
+                  "name": "Sebastian de Oliveira",
+                  "isKeeper": false,
+                  "isSubstitute": false
+                }
+              ]
+            },
+            {
+              "runs": 12,
+              "balls": 18,
+              "fours": 1,
+              "sixes": 0,
+              "player": {
+                "id": "fc754002-b6cb-4758-a8f7-c27365a32929",
+                "name": "Yatharth Chauhan",
+                "roles": [],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm offbreak"
+                ]
+              },
+              "dismissalStatus": "lbw",
+              "battingStrikeRate": 66.66,
+              "dismissalFielders": []
+            },
+            {
+              "runs": 12,
+              "balls": 7,
+              "fours": 2,
+              "sixes": 0,
+              "player": {
+                "id": "a09f0f09-d901-4cd7-850f-ae4427b9f4da",
+                "name": "Wynand Boshoff",
+                "roles": [],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": []
+              },
+              "dismissalStatus": "caught",
+              "battingStrikeRate": 171.42,
+              "dismissalFielders": [
+                {
+                  "name": "Sebastian de Oliveira",
+                  "isKeeper": false,
+                  "isSubstitute": false
+                }
+              ]
+            },
+            {
+              "runs": 11,
+              "balls": 16,
+              "fours": 0,
+              "sixes": 0,
+              "player": {
+                "id": "d85f23f1-4079-461e-be9c-be248b79f643",
+                "name": "Advait Dhabe",
+                "roles": [],
+                "battingStyles": [
+                  "left-hand bat"
+                ],
+                "bowlingStyles": [
+                  "slow left-arm orthodox"
+                ]
+              },
+              "dismissalStatus": "caught",
+              "battingStrikeRate": 68.75,
+              "dismissalFielders": [
+                {
+                  "name": "Rahulkumar Hashu",
+                  "isKeeper": false,
+                  "isSubstitute": false
+                }
+              ]
+            },
+            {
+              "runs": 2,
+              "balls": 3,
+              "fours": 0,
+              "sixes": 0,
+              "player": {
+                "id": "ee1e3d8d-269e-4d3a-b7c2-c0a4c5a1e989",
+                "name": "Sami Rahmani",
+                "roles": [],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm medium"
+                ]
+              },
+              "dismissalStatus": "caught",
+              "battingStrikeRate": 66.66,
+              "dismissalFielders": [
+                {
+                  "name": "Edward Fleming",
+                  "isKeeper": false,
+                  "isSubstitute": false
+                }
+              ]
+            },
+            {
+              "runs": 25,
+              "balls": 14,
+              "fours": 1,
+              "sixes": 3,
+              "player": {
+                "id": "a5addbd2-1258-4657-96c3-7a9a4fc23452",
+                "name": "Zabiullah Zahid",
+                "roles": [],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm medium-fast"
+                ]
+              },
+              "dismissalStatus": "caught",
+              "battingStrikeRate": 178.57,
+              "dismissalFielders": [
+                {
+                  "name": "Edward Fleming",
+                  "isKeeper": false,
+                  "isSubstitute": false
+                }
+              ]
+            },
+            {
+              "runs": 5,
+              "balls": 6,
+              "fours": 0,
+              "sixes": 0,
+              "player": {
+                "id": "d873fe84-5b19-4d24-8486-5c667ec5c75d",
+                "name": "Zain Muzaffar",
+                "roles": [],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "left-arm medium"
+                ]
+              },
+              "dismissalStatus": "not out",
+              "battingStrikeRate": 83.33,
+              "dismissalFielders": []
+            },
+            {
+              "runs": 0,
+              "balls": 1,
+              "fours": 0,
+              "sixes": 0,
+              "player": {
+                "id": "a34678d7-569d-4d0e-bda5-071b990c2f9c",
+                "name": "Shreyas Swamy",
+                "roles": [],
+                "battingStyles": [
+                  "left-hand bat"
+                ],
+                "bowlingStyles": [
+                  "slow left-arm orthodox"
+                ]
+              },
+              "dismissalStatus": "not out",
+              "battingStrikeRate": 0,
+              "dismissalFielders": []
+            }
+          ],
+          "inningBowlers": [
+            {
+              "overs": 4,
+              "player": {
+                "name": "Upen Shantu",
+                "roles": [],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "left-arm medium"
+                ]
+              },
+              "economy": 9.75,
+              "maidens": 0,
+              "wickets": 1,
+              "concededRuns": 39
+            },
+            {
+              "overs": 4,
+              "player": {
+                "name": "Sebastian de Oliveira",
+                "roles": [],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm fast-medium"
+                ]
+              },
+              "economy": 6.25,
+              "maidens": 0,
+              "wickets": 4,
+              "concededRuns": 25
+            },
+            {
+              "overs": 3,
+              "player": {
+                "name": "Rahulkumar Hashu",
+                "roles": [],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm medium"
+                ]
+              },
+              "economy": 5.33,
+              "maidens": 0,
+              "wickets": 1,
+              "concededRuns": 16
+            },
+            {
+              "overs": 3,
+              "player": {
+                "name": "Siraj Ullah Khadem",
+                "roles": [],
+                "battingStyles": [
+                  "left-hand bat"
+                ],
+                "bowlingStyles": [
+                  "slow left-arm orthodox"
+                ]
+              },
+              "economy": 4.66,
+              "maidens": 0,
+              "wickets": 0,
+              "concededRuns": 14
+            },
+            {
+              "overs": 2,
+              "player": {
+                "name": "Hardeep Khuttan",
+                "roles": [],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm medium"
+                ]
+              },
+              "economy": 10.5,
+              "maidens": 0,
+              "wickets": 0,
+              "concededRuns": 21
+            },
+            {
+              "overs": 4,
+              "player": {
+                "name": "Edward Fleming",
+                "roles": [],
+                "battingStyles": [
+                  "left-hand bat"
+                ],
+                "bowlingStyles": [
+                  "slow left-arm orthodox"
+                ]
+              },
+              "economy": 4.75,
+              "maidens": 0,
+              "wickets": 3,
+              "concededRuns": 19
+            }
+          ],
+          "fieldingSummary": {
+            "catches": null,
+            "runOuts": null,
+            "runsSaved": null,
+            "stumpings": null,
+            "catchesDropped": null
+          },
+          "inningPartnerships": [
+            {
+              "runs": 15,
+              "balls": 9,
+              "overs": 1.3,
+              "firstPlayer": {
+                "id": "0bece712-4034-4349-821a-723a64ab63f7",
+                "name": "Ajay Mundra",
+                "roles": [],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": []
+              },
+              "secondPlayer": {
+                "id": "b374fb01-7faa-48fc-877f-b33ebba8d46a",
+                "name": "Darshan Lakhani",
+                "roles": [],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm medium"
+                ]
+              },
+              "firstPlayerRuns": 9,
+              "firstPlayerBalls": 5,
+              "secondPlayerRuns": 6,
+              "secondPlayerBalls": 4
+            },
+            {
+              "runs": 0,
+              "balls": 3,
+              "overs": 0.3,
+              "firstPlayer": {
+                "id": "8d4bfc6d-c4b0-4aa2-98cb-511e11b87d10",
+                "name": "Zaid Ahmad",
+                "roles": [],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm medium"
+                ]
+              },
+              "secondPlayer": {
+                "id": "b374fb01-7faa-48fc-877f-b33ebba8d46a",
+                "name": "Darshan Lakhani",
+                "roles": [],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm medium"
+                ]
+              },
+              "firstPlayerRuns": 0,
+              "firstPlayerBalls": 3,
+              "secondPlayerRuns": 0,
+              "secondPlayerBalls": 0
+            },
+            {
+              "runs": 22,
+              "balls": 14,
+              "overs": 2.2,
+              "firstPlayer": {
+                "id": "5fc175f4-6fdd-42ac-bbde-9aedf0d6b018",
+                "name": "Imal Zuwak",
+                "roles": [],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm medium-fast"
+                ]
+              },
+              "secondPlayer": {
+                "id": "b374fb01-7faa-48fc-877f-b33ebba8d46a",
+                "name": "Darshan Lakhani",
+                "roles": [],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm medium"
+                ]
+              },
+              "firstPlayerRuns": 4,
+              "firstPlayerBalls": 4,
+              "secondPlayerRuns": 15,
+              "secondPlayerBalls": 10
+            },
+            {
+              "runs": 28,
+              "balls": 34,
+              "overs": 5.3,
+              "firstPlayer": {
+                "id": "5fc175f4-6fdd-42ac-bbde-9aedf0d6b018",
+                "name": "Imal Zuwak",
+                "roles": [],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm medium-fast"
+                ]
+              },
+              "secondPlayer": {
+                "id": "fc754002-b6cb-4758-a8f7-c27365a32929",
+                "name": "Yatharth Chauhan",
+                "roles": [],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm offbreak"
+                ]
+              },
+              "firstPlayerRuns": 10,
+              "firstPlayerBalls": 16,
+              "secondPlayerRuns": 12,
+              "secondPlayerBalls": 18
+            },
+            {
+              "runs": 20,
+              "balls": 12,
+              "overs": 2,
+              "firstPlayer": {
+                "id": "a09f0f09-d901-4cd7-850f-ae4427b9f4da",
+                "name": "Wynand Boshoff",
+                "roles": [],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": []
+              },
+              "secondPlayer": {
+                "id": "5fc175f4-6fdd-42ac-bbde-9aedf0d6b018",
+                "name": "Imal Zuwak",
+                "roles": [],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm medium-fast"
+                ]
+              },
+              "firstPlayerRuns": 12,
+              "firstPlayerBalls": 7,
+              "secondPlayerRuns": 8,
+              "secondPlayerBalls": 5
+            },
+            {
+              "runs": 22,
+              "balls": 23,
+              "overs": 3.5,
+              "firstPlayer": {
+                "id": "5fc175f4-6fdd-42ac-bbde-9aedf0d6b018",
+                "name": "Imal Zuwak",
+                "roles": [],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm medium-fast"
+                ]
+              },
+              "secondPlayer": {
+                "id": "d85f23f1-4079-461e-be9c-be248b79f643",
+                "name": "Advait Dhabe",
+                "roles": [],
+                "battingStyles": [
+                  "left-hand bat"
+                ],
+                "bowlingStyles": [
+                  "slow left-arm orthodox"
+                ]
+              },
+              "firstPlayerRuns": 9,
+              "firstPlayerBalls": 7,
+              "secondPlayerRuns": 11,
+              "secondPlayerBalls": 16
+            },
+            {
+              "runs": 2,
+              "balls": 3,
+              "overs": 0.3,
+              "firstPlayer": {
+                "id": "ee1e3d8d-269e-4d3a-b7c2-c0a4c5a1e989",
+                "name": "Sami Rahmani",
+                "roles": [],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm medium"
+                ]
+              },
+              "secondPlayer": {
+                "id": "5fc175f4-6fdd-42ac-bbde-9aedf0d6b018",
+                "name": "Imal Zuwak",
+                "roles": [],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm medium-fast"
+                ]
+              },
+              "firstPlayerRuns": 1,
+              "firstPlayerBalls": 1,
+              "secondPlayerRuns": 1,
+              "secondPlayerBalls": 2
+            },
+            {
+              "runs": 8,
+              "balls": 6,
+              "overs": 1,
+              "firstPlayer": {
+                "id": "ee1e3d8d-269e-4d3a-b7c2-c0a4c5a1e989",
+                "name": "Sami Rahmani",
+                "roles": [],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm medium"
+                ]
+              },
+              "secondPlayer": {
+                "id": "a5addbd2-1258-4657-96c3-7a9a4fc23452",
+                "name": "Zabiullah Zahid",
+                "roles": [],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm medium-fast"
+                ]
+              },
+              "firstPlayerRuns": 1,
+              "firstPlayerBalls": 2,
+              "secondPlayerRuns": 7,
+              "secondPlayerBalls": 4
+            },
+            {
+              "runs": 25,
+              "balls": 16,
+              "overs": 2.4,
+              "firstPlayer": {
+                "id": "a5addbd2-1258-4657-96c3-7a9a4fc23452",
+                "name": "Zabiullah Zahid",
+                "roles": [],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm medium-fast"
+                ]
+              },
+              "secondPlayer": {
+                "id": "d873fe84-5b19-4d24-8486-5c667ec5c75d",
+                "name": "Zain Muzaffar",
+                "roles": [],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "left-arm medium"
+                ]
+              },
+              "firstPlayerRuns": 18,
+              "firstPlayerBalls": 10,
+              "secondPlayerRuns": 5,
+              "secondPlayerBalls": 6
+            },
+            {
+              "runs": 1,
+              "balls": 1,
+              "overs": 0.1,
+              "firstPlayer": {
+                "id": "a34678d7-569d-4d0e-bda5-071b990c2f9c",
+                "name": "Shreyas Swamy",
+                "roles": [],
+                "battingStyles": [
+                  "left-hand bat"
+                ],
+                "bowlingStyles": [
+                  "slow left-arm orthodox"
+                ]
+              },
+              "secondPlayer": {
+                "id": "d873fe84-5b19-4d24-8486-5c667ec5c75d",
+                "name": "Zain Muzaffar",
+                "roles": [],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "left-arm medium"
+                ]
+              },
+              "firstPlayerRuns": 0,
+              "firstPlayerBalls": 1,
+              "secondPlayerRuns": 0,
+              "secondPlayerBalls": 0
+            }
+          ]
+        },
+        "inningNumber": 1
+      },
+      {
+        "team": {
+          "id": 4832,
+          "byes": 0,
+          "logo": "https://highlightly.net/cricket/images/teams/4832.png",
+          "name": "Portugal",
+          "fours": null,
+          "sixes": null,
+          "wides": 5,
+          "extras": 12,
+          "legByes": 7,
+          "noBalls": 0,
+          "abbreviation": "PORT",
+          "fallOfWickets": [
+            {
+              "runs": 39,
+              "order": 0,
+              "overs": 4.4,
+              "dismissalBatsman": {
+                "name": "Dhavalkumar Norotam"
+              }
+            },
+            {
+              "runs": 97,
+              "order": 1,
+              "overs": 12.3,
+              "dismissalBatsman": {
+                "name": "Sharn Gomes"
+              }
+            },
+            {
+              "runs": 119,
+              "order": 2,
+              "overs": 15.1,
+              "dismissalBatsman": {
+                "name": "Chad Potgieter"
+              }
+            }
+          ],
+          "inningBatsmen": [
+            {
+              "runs": 37,
+              "balls": 31,
+              "fours": 3,
+              "sixes": 0,
+              "player": {
+                "id": "196c317c-b19f-4746-9af4-6e98a018afc0",
+                "name": "Sharn Gomes",
+                "roles": [],
+                "battingStyles": [
+                  "left-hand bat"
+                ],
+                "bowlingStyles": [
+                  "slow left-arm orthodox"
+                ]
+              },
+              "dismissalStatus": "lbw",
+              "battingStrikeRate": 119.35,
+              "dismissalFielders": []
+            },
+            {
+              "runs": 23,
+              "balls": 16,
+              "fours": 4,
+              "sixes": 0,
+              "player": {
+                "id": "66ae5b09-18d2-4217-8154-ec4e2db69fda",
+                "name": "Dhavalkumar Norotam",
+                "roles": [],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": []
+              },
+              "dismissalStatus": "caught",
+              "battingStrikeRate": 143.75,
+              "dismissalFielders": [
+                {
+                  "name": "Shreyas Swamy",
+                  "isKeeper": false,
+                  "isSubstitute": false
+                }
+              ]
+            },
+            {
+              "runs": 42,
+              "balls": 37,
+              "fours": 4,
+              "sixes": 1,
+              "player": {
+                "id": "34046968-80b0-4748-b1ba-61dac2153ab3",
+                "name": "Chad Potgieter",
+                "roles": [],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": []
+              },
+              "dismissalStatus": "run out",
+              "battingStrikeRate": 113.51,
+              "dismissalFielders": [
+                {
+                  "name": "Ajay Mundra",
+                  "isKeeper": false,
+                  "isSubstitute": false
+                }
+              ]
+            },
+            {
+              "runs": 18,
+              "balls": 12,
+              "fours": 2,
+              "sixes": 0,
+              "player": {
+                "id": "9ad7ecdf-4e36-4bbd-92d3-ee5538642cb0",
+                "name": "Natim Hassam",
+                "roles": [],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm offbreak"
+                ]
+              },
+              "dismissalStatus": "not out",
+              "battingStrikeRate": 150,
+              "dismissalFielders": []
+            },
+            {
+              "runs": 12,
+              "balls": 10,
+              "fours": 2,
+              "sixes": 0,
+              "player": {
+                "id": "b9a0072c-eb05-41b6-a481-db9020422e2e",
+                "name": "Hardeep Khuttan",
+                "roles": [],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm medium"
+                ]
+              },
+              "dismissalStatus": "not out",
+              "battingStrikeRate": 120,
+              "dismissalFielders": []
+            },
+            {
+              "runs": null,
+              "balls": null,
+              "fours": null,
+              "sixes": null,
+              "player": {
+                "id": "efc75d87-d33e-4b03-a3a5-ff3def6484f0",
+                "name": "Carlos Nunes",
+                "roles": [],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm medium"
+                ]
+              },
+              "dismissalStatus": null,
+              "battingStrikeRate": null,
+              "dismissalFielders": []
+            },
+            {
+              "runs": null,
+              "balls": null,
+              "fours": null,
+              "sixes": null,
+              "player": {
+                "id": "22b4259c-954c-49ef-b1cb-f7800d09e2c9",
+                "name": "Rahulkumar Hashu",
+                "roles": [],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm medium"
+                ]
+              },
+              "dismissalStatus": null,
+              "battingStrikeRate": null,
+              "dismissalFielders": []
+            },
+            {
+              "runs": null,
+              "balls": null,
+              "fours": null,
+              "sixes": null,
+              "player": {
+                "id": "18f93179-1ffa-4c30-b287-2a97d0521d82",
+                "name": "Sebastian de Oliveira",
+                "roles": [],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm fast-medium"
+                ]
+              },
+              "dismissalStatus": null,
+              "battingStrikeRate": null,
+              "dismissalFielders": []
+            },
+            {
+              "runs": null,
+              "balls": null,
+              "fours": null,
+              "sixes": null,
+              "player": {
+                "id": "66201bcd-e01d-4ed9-9430-ab696f80de68",
+                "name": "Edward Fleming",
+                "roles": [],
+                "battingStyles": [
+                  "left-hand bat"
+                ],
+                "bowlingStyles": [
+                  "slow left-arm orthodox"
+                ]
+              },
+              "dismissalStatus": null,
+              "battingStrikeRate": null,
+              "dismissalFielders": []
+            },
+            {
+              "runs": null,
+              "balls": null,
+              "fours": null,
+              "sixes": null,
+              "player": {
+                "id": "30617089-677b-4651-bee5-77173fb7587c",
+                "name": "Upen Shantu",
+                "roles": [],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "left-arm medium"
+                ]
+              },
+              "dismissalStatus": null,
+              "battingStrikeRate": null,
+              "dismissalFielders": []
+            },
+            {
+              "runs": null,
+              "balls": null,
+              "fours": null,
+              "sixes": null,
+              "player": {
+                "id": "8cd24489-3dce-404e-a093-361879342019",
+                "name": "Siraj Ullah Khadem",
+                "roles": [],
+                "battingStyles": [
+                  "left-hand bat"
+                ],
+                "bowlingStyles": [
+                  "slow left-arm orthodox"
+                ]
+              },
+              "dismissalStatus": null,
+              "battingStrikeRate": null,
+              "dismissalFielders": []
+            }
+          ],
+          "inningBowlers": [
+            {
+              "overs": 4,
+              "player": {
+                "name": "Advait Dhabe",
+                "roles": [],
+                "battingStyles": [
+                  "left-hand bat"
+                ],
+                "bowlingStyles": [
+                  "slow left-arm orthodox"
+                ]
+              },
+              "economy": 7.5,
+              "maidens": 0,
+              "wickets": 1,
+              "concededRuns": 30
+            },
+            {
+              "overs": 2,
+              "player": {
+                "name": "Zain Muzaffar",
+                "roles": [],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "left-arm medium"
+                ]
+              },
+              "economy": 9.5,
+              "maidens": 0,
+              "wickets": 0,
+              "concededRuns": 19
+            },
+            {
+              "overs": 2,
+              "player": {
+                "name": "Zabiullah Zahid",
+                "roles": [],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm medium-fast"
+                ]
+              },
+              "economy": 9.5,
+              "maidens": 0,
+              "wickets": 0,
+              "concededRuns": 19
+            },
+            {
+              "overs": 4,
+              "player": {
+                "name": "Sami Rahmani",
+                "roles": [],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm medium"
+                ]
+              },
+              "economy": 7.75,
+              "maidens": 0,
+              "wickets": 0,
+              "concededRuns": 31
+            },
+            {
+              "overs": 3,
+              "player": {
+                "name": "Shreyas Swamy",
+                "roles": [],
+                "battingStyles": [
+                  "left-hand bat"
+                ],
+                "bowlingStyles": [
+                  "slow left-arm orthodox"
+                ]
+              },
+              "economy": 8,
+              "maidens": 0,
+              "wickets": 1,
+              "concededRuns": 24
+            },
+            {
+              "overs": 2.4,
+              "player": {
+                "name": "Zaid Ahmad",
+                "roles": [],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm medium"
+                ]
+              },
+              "economy": 5.25,
+              "maidens": 0,
+              "wickets": 0,
+              "concededRuns": 14
+            }
+          ],
+          "fieldingSummary": {
+            "catches": null,
+            "runOuts": 1,
+            "runsSaved": null,
+            "stumpings": null,
+            "catchesDropped": null
+          },
+          "inningPartnerships": [
+            {
+              "runs": 39,
+              "balls": 28,
+              "overs": 4.4,
+              "firstPlayer": {
+                "id": "196c317c-b19f-4746-9af4-6e98a018afc0",
+                "name": "Sharn Gomes",
+                "roles": [],
+                "battingStyles": [
+                  "left-hand bat"
+                ],
+                "bowlingStyles": [
+                  "slow left-arm orthodox"
+                ]
+              },
+              "secondPlayer": {
+                "id": "66ae5b09-18d2-4217-8154-ec4e2db69fda",
+                "name": "Dhavalkumar Norotam",
+                "roles": [],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": []
+              },
+              "firstPlayerRuns": 14,
+              "firstPlayerBalls": 12,
+              "secondPlayerRuns": 23,
+              "secondPlayerBalls": 16
+            },
+            {
+              "runs": 58,
+              "balls": 47,
+              "overs": 7.5,
+              "firstPlayer": {
+                "id": "196c317c-b19f-4746-9af4-6e98a018afc0",
+                "name": "Sharn Gomes",
+                "roles": [],
+                "battingStyles": [
+                  "left-hand bat"
+                ],
+                "bowlingStyles": [
+                  "slow left-arm orthodox"
+                ]
+              },
+              "secondPlayer": {
+                "id": "34046968-80b0-4748-b1ba-61dac2153ab3",
+                "name": "Chad Potgieter",
+                "roles": [],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": []
+              },
+              "firstPlayerRuns": 23,
+              "firstPlayerBalls": 19,
+              "secondPlayerRuns": 31,
+              "secondPlayerBalls": 28
+            },
+            {
+              "runs": 22,
+              "balls": 16,
+              "overs": 2.4,
+              "firstPlayer": {
+                "id": "34046968-80b0-4748-b1ba-61dac2153ab3",
+                "name": "Chad Potgieter",
+                "roles": [],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": []
+              },
+              "secondPlayer": {
+                "id": "9ad7ecdf-4e36-4bbd-92d3-ee5538642cb0",
+                "name": "Natim Hassam",
+                "roles": [],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm offbreak"
+                ]
+              },
+              "firstPlayerRuns": 11,
+              "firstPlayerBalls": 9,
+              "secondPlayerRuns": 9,
+              "secondPlayerBalls": 7
+            },
+            {
+              "runs": 25,
+              "balls": 15,
+              "overs": 2.3,
+              "firstPlayer": {
+                "id": "b9a0072c-eb05-41b6-a481-db9020422e2e",
+                "name": "Hardeep Khuttan",
+                "roles": [],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm medium"
+                ]
+              },
+              "secondPlayer": {
+                "id": "9ad7ecdf-4e36-4bbd-92d3-ee5538642cb0",
+                "name": "Natim Hassam",
+                "roles": [],
+                "battingStyles": [
+                  "right-hand bat"
+                ],
+                "bowlingStyles": [
+                  "right-arm offbreak"
+                ]
+              },
+              "firstPlayerRuns": 12,
+              "firstPlayerBalls": 10,
+              "secondPlayerRuns": 9,
+              "secondPlayerBalls": 5
+            }
+          ]
+        },
+        "inningNumber": 2
+      }
+    ],
+    "squad": [
+      {
+        "team": {
+          "id": 5497,
+          "logo": "https://highlightly.net/cricket/images/teams/5497.png",
+          "name": "Sweden",
+          "abbreviation": "SWE"
+        },
+        "players": [
+          {
+            "id": {
+              "id": "0bece712-4034-4349-821a-723a64ab63f7",
+              "name": "Ajay Mundra",
+              "roles": [],
+              "battingStyles": [
+                "right-hand bat"
+              ],
+              "bowlingStyles": []
+            },
+            "name": "Ajay Mundra",
+            "roles": [],
+            "battingStyles": [
+              "right-hand bat"
+            ],
+            "bowlingStyles": []
+          },
+          {
+            "id": {
+              "id": "b374fb01-7faa-48fc-877f-b33ebba8d46a",
+              "name": "Darshan Lakhani",
+              "roles": [
+                "right-arm medium"
+              ],
+              "battingStyles": [
+                "right-hand bat"
+              ],
+              "bowlingStyles": [
+                "right-arm medium"
+              ]
+            },
+            "name": "Darshan Lakhani",
+            "roles": [],
+            "battingStyles": [
+              "right-hand bat"
+            ],
+            "bowlingStyles": [
+              "right-arm medium"
+            ]
+          },
+          {
+            "id": {
+              "id": "8d4bfc6d-c4b0-4aa2-98cb-511e11b87d10",
+              "name": "Zaid Ahmad",
+              "roles": [
+                "right-arm medium"
+              ],
+              "battingStyles": [
+                "right-hand bat"
+              ],
+              "bowlingStyles": [
+                "right-arm medium"
+              ]
+            },
+            "name": "Zaid Ahmad",
+            "roles": [],
+            "battingStyles": [
+              "right-hand bat"
+            ],
+            "bowlingStyles": [
+              "right-arm medium"
+            ]
+          },
+          {
+            "id": {
+              "id": "5fc175f4-6fdd-42ac-bbde-9aedf0d6b018",
+              "name": "Imal Zuwak",
+              "roles": [
+                "right-arm medium-fast"
+              ],
+              "battingStyles": [
+                "right-hand bat"
+              ],
+              "bowlingStyles": [
+                "right-arm medium-fast"
+              ]
+            },
+            "name": "Imal Zuwak",
+            "roles": [],
+            "battingStyles": [
+              "right-hand bat"
+            ],
+            "bowlingStyles": [
+              "right-arm medium-fast"
+            ]
+          },
+          {
+            "id": {
+              "id": "fc754002-b6cb-4758-a8f7-c27365a32929",
+              "name": "Yatharth Chauhan",
+              "roles": [
+                "right-arm offbreak"
+              ],
+              "battingStyles": [
+                "right-hand bat"
+              ],
+              "bowlingStyles": [
+                "right-arm offbreak"
+              ]
+            },
+            "name": "Yatharth Chauhan",
+            "roles": [],
+            "battingStyles": [
+              "right-hand bat"
+            ],
+            "bowlingStyles": [
+              "right-arm offbreak"
+            ]
+          },
+          {
+            "id": {
+              "id": "a09f0f09-d901-4cd7-850f-ae4427b9f4da",
+              "name": "Wynand Boshoff",
+              "roles": [],
+              "battingStyles": [
+                "right-hand bat"
+              ],
+              "bowlingStyles": []
+            },
+            "name": "Wynand Boshoff",
+            "roles": [],
+            "battingStyles": [
+              "right-hand bat"
+            ],
+            "bowlingStyles": []
+          },
+          {
+            "id": {
+              "id": "d85f23f1-4079-461e-be9c-be248b79f643",
+              "name": "Advait Dhabe",
+              "roles": [
+                "slow left-arm orthodox"
+              ],
+              "battingStyles": [
+                "left-hand bat"
+              ],
+              "bowlingStyles": [
+                "slow left-arm orthodox"
+              ]
+            },
+            "name": "Advait Dhabe",
+            "roles": [],
+            "battingStyles": [
+              "left-hand bat"
+            ],
+            "bowlingStyles": [
+              "slow left-arm orthodox"
+            ]
+          },
+          {
+            "id": {
+              "id": "ee1e3d8d-269e-4d3a-b7c2-c0a4c5a1e989",
+              "name": "Sami Rahmani",
+              "roles": [
+                "right-arm medium"
+              ],
+              "battingStyles": [
+                "right-hand bat"
+              ],
+              "bowlingStyles": [
+                "right-arm medium"
+              ]
+            },
+            "name": "Sami Rahmani",
+            "roles": [],
+            "battingStyles": [
+              "right-hand bat"
+            ],
+            "bowlingStyles": [
+              "right-arm medium"
+            ]
+          },
+          {
+            "id": {
+              "id": "a5addbd2-1258-4657-96c3-7a9a4fc23452",
+              "name": "Zabiullah Zahid",
+              "roles": [
+                "right-arm medium-fast"
+              ],
+              "battingStyles": [
+                "right-hand bat"
+              ],
+              "bowlingStyles": [
+                "right-arm medium-fast"
+              ]
+            },
+            "name": "Zabiullah Zahid",
+            "roles": [],
+            "battingStyles": [
+              "right-hand bat"
+            ],
+            "bowlingStyles": [
+              "right-arm medium-fast"
+            ]
+          },
+          {
+            "id": {
+              "id": "d873fe84-5b19-4d24-8486-5c667ec5c75d",
+              "name": "Zain Muzaffar",
+              "roles": [
+                "left-arm medium"
+              ],
+              "battingStyles": [
+                "right-hand bat"
+              ],
+              "bowlingStyles": [
+                "left-arm medium"
+              ]
+            },
+            "name": "Zain Muzaffar",
+            "roles": [],
+            "battingStyles": [
+              "right-hand bat"
+            ],
+            "bowlingStyles": [
+              "left-arm medium"
+            ]
+          },
+          {
+            "id": {
+              "id": "a34678d7-569d-4d0e-bda5-071b990c2f9c",
+              "name": "Shreyas Swamy",
+              "roles": [
+                "slow left-arm orthodox"
+              ],
+              "battingStyles": [
+                "left-hand bat"
+              ],
+              "bowlingStyles": [
+                "slow left-arm orthodox"
+              ]
+            },
+            "name": "Shreyas Swamy",
+            "roles": [],
+            "battingStyles": [
+              "left-hand bat"
+            ],
+            "bowlingStyles": [
+              "slow left-arm orthodox"
+            ]
+          }
+        ]
+      },
+      {
+        "team": {
+          "id": 4832,
+          "logo": "https://highlightly.net/cricket/images/teams/4832.png",
+          "name": "Portugal",
+          "abbreviation": "PORT"
+        },
+        "players": [
+          {
+            "id": {
+              "id": "196c317c-b19f-4746-9af4-6e98a018afc0",
+              "name": "Sharn Gomes",
+              "roles": [
+                "slow left-arm orthodox"
+              ],
+              "battingStyles": [
+                "left-hand bat"
+              ],
+              "bowlingStyles": [
+                "slow left-arm orthodox"
+              ]
+            },
+            "name": "Sharn Gomes",
+            "roles": [],
+            "battingStyles": [
+              "left-hand bat"
+            ],
+            "bowlingStyles": [
+              "slow left-arm orthodox"
+            ]
+          },
+          {
+            "id": {
+              "id": "66ae5b09-18d2-4217-8154-ec4e2db69fda",
+              "name": "Dhavalkumar Norotam",
+              "roles": [],
+              "battingStyles": [
+                "right-hand bat"
+              ],
+              "bowlingStyles": []
+            },
+            "name": "Dhavalkumar Norotam",
+            "roles": [],
+            "battingStyles": [
+              "right-hand bat"
+            ],
+            "bowlingStyles": []
+          },
+          {
+            "id": {
+              "id": "34046968-80b0-4748-b1ba-61dac2153ab3",
+              "name": "Chad Potgieter",
+              "roles": [],
+              "battingStyles": [
+                "right-hand bat"
+              ],
+              "bowlingStyles": []
+            },
+            "name": "Chad Potgieter",
+            "roles": [],
+            "battingStyles": [
+              "right-hand bat"
+            ],
+            "bowlingStyles": []
+          },
+          {
+            "id": {
+              "id": "9ad7ecdf-4e36-4bbd-92d3-ee5538642cb0",
+              "name": "Natim Hassam",
+              "roles": [
+                "right-arm offbreak"
+              ],
+              "battingStyles": [
+                "right-hand bat"
+              ],
+              "bowlingStyles": [
+                "right-arm offbreak"
+              ]
+            },
+            "name": "Natim Hassam",
+            "roles": [],
+            "battingStyles": [
+              "right-hand bat"
+            ],
+            "bowlingStyles": [
+              "right-arm offbreak"
+            ]
+          },
+          {
+            "id": {
+              "id": "b9a0072c-eb05-41b6-a481-db9020422e2e",
+              "name": "Hardeep Khuttan",
+              "roles": [
+                "right-arm medium"
+              ],
+              "battingStyles": [
+                "right-hand bat"
+              ],
+              "bowlingStyles": [
+                "right-arm medium"
+              ]
+            },
+            "name": "Hardeep Khuttan",
+            "roles": [],
+            "battingStyles": [
+              "right-hand bat"
+            ],
+            "bowlingStyles": [
+              "right-arm medium"
+            ]
+          },
+          {
+            "id": {
+              "id": "efc75d87-d33e-4b03-a3a5-ff3def6484f0",
+              "name": "Carlos Nunes",
+              "roles": [
+                "right-arm medium"
+              ],
+              "battingStyles": [
+                "right-hand bat"
+              ],
+              "bowlingStyles": [
+                "right-arm medium"
+              ]
+            },
+            "name": "Carlos Nunes",
+            "roles": [],
+            "battingStyles": [
+              "right-hand bat"
+            ],
+            "bowlingStyles": [
+              "right-arm medium"
+            ]
+          },
+          {
+            "id": {
+              "id": "22b4259c-954c-49ef-b1cb-f7800d09e2c9",
+              "name": "Rahulkumar Hashu",
+              "roles": [
+                "right-arm medium"
+              ],
+              "battingStyles": [
+                "right-hand bat"
+              ],
+              "bowlingStyles": [
+                "right-arm medium"
+              ]
+            },
+            "name": "Rahulkumar Hashu",
+            "roles": [],
+            "battingStyles": [
+              "right-hand bat"
+            ],
+            "bowlingStyles": [
+              "right-arm medium"
+            ]
+          },
+          {
+            "id": {
+              "id": "18f93179-1ffa-4c30-b287-2a97d0521d82",
+              "name": "Sebastian de Oliveira",
+              "roles": [
+                "right-arm fast-medium"
+              ],
+              "battingStyles": [
+                "right-hand bat"
+              ],
+              "bowlingStyles": [
+                "right-arm fast-medium"
+              ]
+            },
+            "name": "Sebastian de Oliveira",
+            "roles": [],
+            "battingStyles": [
+              "right-hand bat"
+            ],
+            "bowlingStyles": [
+              "right-arm fast-medium"
+            ]
+          },
+          {
+            "id": {
+              "id": "66201bcd-e01d-4ed9-9430-ab696f80de68",
+              "name": "Edward Fleming",
+              "roles": [
+                "slow left-arm orthodox"
+              ],
+              "battingStyles": [
+                "left-hand bat"
+              ],
+              "bowlingStyles": [
+                "slow left-arm orthodox"
+              ]
+            },
+            "name": "Edward Fleming",
+            "roles": [],
+            "battingStyles": [
+              "left-hand bat"
+            ],
+            "bowlingStyles": [
+              "slow left-arm orthodox"
+            ]
+          },
+          {
+            "id": {
+              "id": "30617089-677b-4651-bee5-77173fb7587c",
+              "name": "Upen Shantu",
+              "roles": [
+                "left-arm medium"
+              ],
+              "battingStyles": [
+                "right-hand bat"
+              ],
+              "bowlingStyles": [
+                "left-arm medium"
+              ]
+            },
+            "name": "Upen Shantu",
+            "roles": [],
+            "battingStyles": [
+              "right-hand bat"
+            ],
+            "bowlingStyles": [
+              "left-arm medium"
+            ]
+          },
+          {
+            "id": {
+              "id": "8cd24489-3dce-404e-a093-361879342019",
+              "name": "Siraj Ullah Khadem",
+              "roles": [
+                "slow left-arm orthodox"
+              ],
+              "battingStyles": [
+                "left-hand bat"
+              ],
+              "bowlingStyles": [
+                "slow left-arm orthodox"
+              ]
+            },
+            "name": "Siraj Ullah Khadem",
+            "roles": [],
+            "battingStyles": [
+              "left-hand bat"
+            ],
+            "bowlingStyles": [
+              "slow left-arm orthodox"
+            ]
+          }
+        ]
+      }
+    ],
+    "bestBatsmen": [
+      {
+        "team": {
+          "id": 5497,
+          "logo": "https://highlightly.net/cricket/images/teams/5497.png",
+          "name": "Sweden",
+          "abbreviation": "SWE"
+        },
+        "players": [
+          {
+            "id": {
+              "id": "a09f0f09-d901-4cd7-850f-ae4427b9f4da",
+              "name": "Wynand Boshoff",
+              "roles": [],
+              "battingStyles": [
+                "right-hand bat"
+              ],
+              "bowlingStyles": []
+            },
+            "name": "Wynand Boshoff",
+            "roles": [],
+            "statistics": {
+              "runs": 261,
+              "average": 52.2,
+              "innings": 8,
+              "matches": 10,
+              "battingStrikeRate": 126.69
+            },
+            "battingStyles": [
+              "right-hand bat"
+            ],
+            "bowlingStyles": []
+          },
+          {
+            "id": {
+              "id": "0bece712-4034-4349-821a-723a64ab63f7",
+              "name": "Ajay Mundra",
+              "roles": [],
+              "battingStyles": [
+                "right-hand bat"
+              ],
+              "bowlingStyles": []
+            },
+            "name": "Ajay Mundra",
+            "roles": [],
+            "statistics": {
+              "runs": 229,
+              "average": 32.7143,
+              "innings": 9,
+              "matches": 10,
+              "battingStrikeRate": 148.7
+            },
+            "battingStyles": [
+              "right-hand bat"
+            ],
+            "bowlingStyles": []
+          }
+        ]
+      },
+      {
+        "team": {
+          "id": 4832,
+          "logo": "https://highlightly.net/cricket/images/teams/4832.png",
+          "name": "Portugal",
+          "abbreviation": "PORT"
+        },
+        "players": [
+          {
+            "id": {
+              "id": "66ae5b09-18d2-4217-8154-ec4e2db69fda",
+              "name": "Dhavalkumar Norotam",
+              "roles": [],
+              "battingStyles": [
+                "right-hand bat"
+              ],
+              "bowlingStyles": []
+            },
+            "name": "Dhavalkumar Norotam",
+            "roles": [],
+            "statistics": {
+              "runs": 311,
+              "average": 31.1,
+              "innings": 10,
+              "matches": 10,
+              "battingStrikeRate": 146.69
+            },
+            "battingStyles": [
+              "right-hand bat"
+            ],
+            "bowlingStyles": []
+          },
+          {
+            "id": {
+              "id": "9ad7ecdf-4e36-4bbd-92d3-ee5538642cb0",
+              "name": "Natim Hassam",
+              "roles": [
+                "right-arm offbreak"
+              ],
+              "battingStyles": [
+                "right-hand bat"
+              ],
+              "bowlingStyles": [
+                "right-arm offbreak"
+              ]
+            },
+            "name": "Natim Hassam",
+            "roles": [],
+            "statistics": {
+              "runs": 143,
+              "average": 28.6,
+              "innings": 7,
+              "matches": 10,
+              "battingStrikeRate": 113.49
+            },
+            "battingStyles": [
+              "right-hand bat"
+            ],
+            "bowlingStyles": [
+              "right-arm offbreak"
+            ]
+          }
+        ]
+      }
+    ],
+    "bestBowlers": [
+      {
+        "team": {
+          "id": 5497,
+          "logo": "https://highlightly.net/cricket/images/teams/5497.png",
+          "name": "Sweden",
+          "abbreviation": "SWE"
+        },
+        "players": [
+          {
+            "id": {
+              "id": "ee1e3d8d-269e-4d3a-b7c2-c0a4c5a1e989",
+              "name": "Sami Rahmani",
+              "roles": [
+                "right-arm medium"
+              ],
+              "battingStyles": [
+                "right-hand bat"
+              ],
+              "bowlingStyles": [
+                "right-arm medium"
+              ]
+            },
+            "name": "Sami Rahmani",
+            "roles": [],
+            "statistics": {
+              "balls": 232,
+              "average": 13.25,
+              "economy": 6.85,
+              "innings": 10,
+              "matches": 10,
+              "wickets": 20,
+              "concededRuns": 265,
+              "battingStrikeRate": 11.6
+            },
+            "battingStyles": [
+              "right-hand bat"
+            ],
+            "bowlingStyles": [
+              "right-arm medium"
+            ]
+          },
+          {
+            "id": {
+              "id": "d85f23f1-4079-461e-be9c-be248b79f643",
+              "name": "Advait Dhabe",
+              "roles": [
+                "slow left-arm orthodox"
+              ],
+              "battingStyles": [
+                "left-hand bat"
+              ],
+              "bowlingStyles": [
+                "slow left-arm orthodox"
+              ]
+            },
+            "name": "Advait Dhabe",
+            "roles": [],
+            "statistics": {
+              "balls": 210,
+              "average": 19.64,
+              "economy": 6.17,
+              "innings": 9,
+              "matches": 9,
+              "wickets": 11,
+              "concededRuns": 216,
+              "battingStrikeRate": 19.09
+            },
+            "battingStyles": [
+              "left-hand bat"
+            ],
+            "bowlingStyles": [
+              "slow left-arm orthodox"
+            ]
+          }
+        ]
+      },
+      {
+        "team": {
+          "id": 4832,
+          "logo": "https://highlightly.net/cricket/images/teams/4832.png",
+          "name": "Portugal",
+          "abbreviation": "PORT"
+        },
+        "players": [
+          {
+            "id": {
+              "id": "30617089-677b-4651-bee5-77173fb7587c",
+              "name": "Upen Shantu",
+              "roles": [
+                "left-arm medium"
+              ],
+              "battingStyles": [
+                "right-hand bat"
+              ],
+              "bowlingStyles": [
+                "left-arm medium"
+              ]
+            },
+            "name": "Upen Shantu",
+            "roles": [],
+            "statistics": {
+              "balls": 178,
+              "average": 14.06,
+              "economy": 8.06,
+              "innings": 9,
+              "matches": 9,
+              "wickets": 17,
+              "concededRuns": 239,
+              "battingStrikeRate": 10.47
+            },
+            "battingStyles": [
+              "right-hand bat"
+            ],
+            "bowlingStyles": [
+              "left-arm medium"
+            ]
+          },
+          {
+            "id": {
+              "id": "22b4259c-954c-49ef-b1cb-f7800d09e2c9",
+              "name": "Rahulkumar Hashu",
+              "roles": [
+                "right-arm medium"
+              ],
+              "battingStyles": [
+                "right-hand bat"
+              ],
+              "bowlingStyles": [
+                "right-arm medium"
+              ]
+            },
+            "name": "Rahulkumar Hashu",
+            "roles": [],
+            "statistics": {
+              "balls": 143,
+              "average": 12.64,
+              "economy": 7.43,
+              "innings": 9,
+              "matches": 9,
+              "wickets": 14,
+              "concededRuns": 177,
+              "battingStrikeRate": 10.21
+            },
+            "battingStyles": [
+              "right-hand bat"
+            ],
+            "bowlingStyles": [
+              "right-arm medium"
+            ]
+          }
+        ]
+      }
+    ],
+    "id": "53911272",
+    "startDate": "2026-07-01T00:00:00.000Z",
+    "endDate": "2026-07-01T00:00:00.000Z",
+    "country": {
+      "code": "World",
+      "name": "World",
+      "logo": "http://highlightly.net/cricket/images/countries/World.png"
+    },
+    "dayType": "SINGLE",
+    "format": "T20",
+    "startTime": "2026-07-01T12:30:00.000Z",
+    "state": {
+      "teams": {
+        "away": {
+          "info": "17.4/20 ov, T:144",
+          "score": "144/3"
+        },
+        "home": {
+          "info": null,
+          "score": "143/9"
+        }
+      },
+      "report": "Portugal won by 7 wickets (with 14 balls remaining)",
+      "description": "Finished"
+    },
+    "awayTeam": {
+      "id": "4832",
+      "logo": "https://highlightly.net/cricket/images/teams/4832.png",
+      "name": "Portugal",
+      "abbreviation": "PORT"
+    },
+    "homeTeam": {
+      "id": "5497",
+      "logo": "https://highlightly.net/cricket/images/teams/5497.png",
+      "name": "Sweden",
+      "abbreviation": "SWE"
+    },
+    "league": {
+      "id": "53910852",
+      "logo": null,
+      "name": "Portugal in Sweden",
+      "season": 2026
+    }
+  }
+]

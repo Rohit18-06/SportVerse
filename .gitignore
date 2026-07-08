@@ -1,0 +1,95 @@
+# Environment variables
+.env
+.env.local
+.env.*.local
+.env.example
+.env.local.example
+
+# Node/Frontend
+sportsverse/node_modules/
+sportsverse/.next/
+sportsverse/out/
+sportsverse/build/
+sportsverse/dist/
+sportsverse/.vercel/
+sportsverse/.cache/
+sportsverse/npm-debug.log*
+sportsverse/yarn-debug.log*
+sportsverse/yarn-error.log*
+sportsverse/.pnpm-debug.log*
+sportsverse/.DS_Store
+
+# Python/Backend
+backend/__pycache__/
+backend/**/__pycache__/
+backend/**/*.pyc
+backend/**/*.pyo
+backend/**/*.pyd
+backend/.Python
+backend/build/
+backend/develop-eggs/
+backend/dist/
+backend/downloads/
+backend/eggs/
+backend/.eggs/
+backend/lib/
+backend/lib64/
+backend/parts/
+backend/sdist/
+backend/var/
+backend/wheels/
+backend/pip-wheel-metadata/
+backend/share/python-wheels/
+backend/*.egg-info/
+backend/.installed.cfg
+backend/*.egg
+backend/MANIFEST
+backend/.venv
+backend/venv/
+backend/ENV/
+backend/env/
+backend/.vscode/
+backend/.idea/
+backend/*.swp
+backend/*.swo
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+*.log
+*.pid
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+backend/app.db
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*~
+
+# Coverage
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Build artifacts
+dist/
+build/
+
+# Documentation/Session files
+*.md.bak
+AGENTS.md

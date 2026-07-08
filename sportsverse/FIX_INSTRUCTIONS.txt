@@ -1,0 +1,141 @@
+================================================================================
+SportsVerse: Fix 404 JavaScript Bundle Errors
+================================================================================
+
+PROBLEM:
+- Browser shows 404 errors for .js files
+- MIME type shows 'text/plain' instead of 'application/javascript'
+- Possible cause: Stale Next.js build cache
+
+SOLUTION: Complete Reset & Rebuild
+
+================================================================================
+OPTION 1: AUTOMATED FIX (Recommended for PowerShell)
+================================================================================
+
+1. Open PowerShell in the sportsverse folder
+2. Run the fix script:
+   .\FIX_404_ERRORS.ps1
+
+The script will:
+- Stop any running Node.js processes
+- Delete the .next cache
+- Clear npm cache
+- Reinstall dependencies
+- Rebuild the project
+- Start the dev server
+
+Wait for "Ready in X.Xs" message in the terminal.
+Then open: http://localhost:3000
+
+================================================================================
+OPTION 2: MANUAL FIX (For cmd.exe users)
+================================================================================
+
+1. Stop the running dev server (Ctrl+C)
+
+2. Delete the cache:
+   rmdir /s /q .next
+
+3. Clear npm cache:
+   npm cache clean --force
+
+4. Delete package-lock.json:
+   del package-lock.json
+
+5. Reinstall dependencies:
+   npm install
+
+6. Rebuild:
+   npm run build
+
+7. Start dev server:
+   npm run dev
+
+Wait for "Ready in X.Xs" message.
+Then open: http://localhost:3000
+
+================================================================================
+OPTION 3: QUICK RESET (Minimal approach)
+================================================================================
+
+1. Stop the dev server
+
+2. In sportsverse folder:
+   rmdir /s /q .next && npm run dev
+
+This deletes cache and immediately rebuilds on startup.
+
+================================================================================
+AFTER RUNNING FIX
+================================================================================
+
+✓ Verify Next.js server shows: "Ready in X.Xs"
+✓ Open http://localhost:3000 (NOT a cached file)
+✓ Check browser DevTools > Console for errors
+✓ Check browser DevTools > Network for .js files (should be 200, not 404)
+✓ Clear browser cache if still seeing errors (Ctrl+Shift+Delete)
+✓ Try incognito window to bypass browser cache
+
+================================================================================
+VERIFICATION
+================================================================================
+
+Expected in browser console:
+- No "Refused to execute script" errors
+- No "404 (Not Found)" errors
+- Pages should load smoothly
+- Network tab should show .js files with 200 status
+
+Expected in terminal:
+- "Ready in X.Xs" message
+- No compilation errors
+- Pages returning 200 status codes
+
+================================================================================
+TROUBLESHOOTING
+================================================================================
+
+If errors persist after fix:
+
+1. Check that both servers are running:
+   - Frontend: http://localhost:3000 (npm run dev in sportsverse)
+   - Backend: http://localhost:8000 (python run.py in backend)
+
+2. Verify .env.local is correct:
+   NEXT_PUBLIC_API_URL=http://localhost:8000/api/v1
+
+3. Check Node.js version (should be 16+):
+   node --version
+
+4. Kill all Node processes and restart:
+   taskkill /F /IM node.exe
+   npm run dev
+
+5. Try completely removing node_modules:
+   rmdir /s /q node_modules
+   npm install
+   npm run dev
+
+6. Check for port conflicts:
+   - Is something else using port 3000?
+   - Restart by changing port: npm run dev -- -p 3001
+
+================================================================================
+PROJECT STRUCTURE VERIFIED ✓
+================================================================================
+
+✓ app/layout.tsx (root layout)
+✓ app/page.tsx (home page)
+✓ app/(dashboard)/ (dashboard group)
+✓ app/(auth)/ (auth group)
+✓ src/components/ (all components)
+✓ src/hooks/ (React Query hooks)
+✓ src/services/api/ (API client)
+✓ Environment configured correctly
+✓ Backend CORS enabled for localhost:3000
+✓ All dependencies installed
+
+The project structure is correct and ready to run.
+
+================================================================================
